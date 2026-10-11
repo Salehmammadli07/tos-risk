@@ -42,4 +42,8 @@ describe('stripMarkers', () => {
     expect(stripMarkers('Ayrıntılar için [12]<a href="/p">Gizlilik</a> sayfasına bakın.'))
       .toBe('Ayrıntılar için Gizlilik sayfasına bakın.');
   });
+  it('page-controller 1.12.4 gerçek çıktı biçimini temizler', () => {
+    const raw = 'Ayrıntılar için\n*[2]<a >buraya />\nbakın.\n[3]<button type=submit>Kabul />';
+    expect(normalize(stripMarkers(raw))).toBe('ayrintilar için buraya bakin. kabul');
+  });
 });

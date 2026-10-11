@@ -13,7 +13,11 @@ export function normalize(s) {
     .trim();
 }
 
-// page-controller çıktısındaki "[12]<a ...>" ve "</a>" işaretlerini siler.
+// page-controller çıktısındaki etkileşim işaretlerini siler:
+// "*[2]<a >buraya />" → "buraya" (1.12.4 biçimi); "</a>" gibi etiketler de gider.
 export function stripMarkers(s) {
-  return s.replace(/\[\d+\]<[^>]*>/g, '').replace(/<\/?[a-z][^>]*>/gi, '');
+  return s
+    .replace(/\*?\[\d+\]<[^>]*>/g, '')
+    .replace(/ ?\/>/g, '')
+    .replace(/<\/?[a-z][^>]*>/gi, '');
 }
