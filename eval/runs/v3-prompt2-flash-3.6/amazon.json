@@ -1,0 +1,52 @@
+{
+  "status": "ok",
+  "isLegalDocument": true,
+  "documentType": "tos",
+  "summary": "Bu belge, Amazon.com.tr web sitesinin Kullanım ve Satış Koşullarını içermektedir. Belge; hesap kullanımı, fikri mülkiyet, sorumluluk sınırlamaları, tek taraflı değişiklik hakları, üçüncü taraflarla veri paylaşımı ve iade/cayma haklarına ilişkin şartları düzenlemektedir.",
+  "score": 63,
+  "level": "high",
+  "clauses": [
+    {
+      "category": "account_termination",
+      "severity": "medium",
+      "quote": "yürürlükteki yasalara ciddi şekilde uymadığınızı tespit edersek yasal nedenlerle size önceden bildirim yapmayabiliriz.",
+      "explanation_tr": "Şirket, yasalara ciddi bir aykırılık tespit etmesi halinde hesabınızı önceden bildirimde bulunmaksızın kapatma hakkını saklı tutmaktadır.",
+      "advice_tr": "Hesabınızın aniden kısıtlanmaması veya kapatılmaması için kullanım koşullarına ve ilgili mevzuata uygun hareket etmeniz önerilir."
+    },
+    {
+      "category": "content_license",
+      "severity": "medium",
+      "quote": "Amazon'a, söz konusu içeriği dünya çapında kullanmak, çoğaltmak, yayınlamak, görüntülemek, tercüme etmek ve adapte etmek",
+      "explanation_tr": "Platformda paylaştığınız yorum, değerlendirme ve görseller üzerinde şirkete dünya çapında, telifsiz ve geniş bir kullanım lisansı tanınmaktadır.",
+      "advice_tr": "Platformda paylaştığınız yorum ve içeriklerde kişisel veya özel bilgilerinize yer vermemeye dikkat edebilirsiniz."
+    },
+    {
+      "category": "unilateral_change",
+      "severity": "medium",
+      "quote": "Değişiklikleri Amazon.com.tr’de yayınlayarak bu Satış Koşulları’nda herhangi bir zamanda değişiklik yapma hakkını saklı tutarız.",
+      "explanation_tr": "Şirket, satış şartlarında dilediği zaman değişiklik yapma ve bunları sitede yayınlayarak yürürlüğe koyma hakkını saklı tutmaktadır.",
+      "advice_tr": "Sipariş vermeden önce güncel satış koşullarını ve politikalardaki değişiklikleri düzenli olarak kontrol etmeniz faydalı olacaktır."
+    },
+    {
+      "category": "liability_limit",
+      "severity": "medium",
+      "quote": "Amazon Hizmetleri’ni kullanmaya başladığınızda sizin ya da bizim tarafımızdan öngörülemeyen dolaylı zararlardan sorumlu olmayacaktır.",
+      "explanation_tr": "Şirket, hizmet kullanımı sırasında meydana gelebilecek öngörülemeyen ve dolaylı zararlardan doğan hukuki sorumluluğunu sınırlandırmaktadır.",
+      "advice_tr": "Olası veri kayıpları veya dolaylı zararlara karşı kendi tedbirlerinizi almanız ve bir sorun halinde hukuki danışmanlık almanız önerilir."
+    },
+    {
+      "category": "data_sharing",
+      "severity": "low",
+      "quote": "İşlemlerinize bir üçüncü tarafın müdahil olduğunda bunu anlamanız mümkün olacaktır ve işlemler ile ilgili bilgilerinizi söz konusu taraf ile paylaşabiliriz.",
+      "explanation_tr": "İşleminizde üçüncü taraf bir satıcı veya hizmet sağlayıcı yer aldığında, işlemle ilgili verilerinizin bu tarafa aktarılabileceği belirtilmektedir.",
+      "advice_tr": "Pazaryeri üzerindeki üçüncü taraf satıcılardan alışveriş yaparken ilgili satıcının şartlarını ve gizlilik politikalarını inceleyebilirsiniz."
+    }
+  ],
+  "unverified": [],
+  "uncertain": false,
+  "uncertaintyReasons": [],
+  "injection": {
+    "inText": [],
+    "hiddenOnly": []
+  }
+}

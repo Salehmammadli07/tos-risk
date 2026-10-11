@@ -8,8 +8,8 @@ Model: `gemini-3.5-flash-lite` · temperature 0 · tek çalıştırma
 
 Doğrulanamayan (metinde bulunamayan) iddialar rapora girmediği için yanlış alarm sayılmaz, ayrı sütunda gösterilir.
 
-| Belge | Altın | Katı: yakalanan / kaçırılan / yanlış alarm | Hüküm: yakalanan / kaçırılan / yanlış alarm | Doğrulanamayan | Skor | Belirsiz |
-|---|---|---|---|---|---|---|
+| Belge | Altın | Katı yakalanan | Katı kaçırılan | Katı yanlış alarm | Hüküm yakalanan | Hüküm kaçırılan | Hüküm yanlış alarm | Doğrulanamayan | Skor | Belirsiz |
+|---|---|---|---|---|---|---|---|---|---|---|
 | Spotify Kullanım Şartları (TR) | 18 | 4 | 14 | 3 | 5 | 13 | 2 | 6 | 78 | hayır |
 | YouTube Hizmet Şartları (TR) | 8 | 3 | 5 | 3 | 3 | 5 | 3 | 0 | 88 | hayır |
 | Amazon.com.tr Kullanım ve Satış Koşulları (TR) | 12 | 3 | 9 | 0 | 3 | 9 | 0 | 2 | 30 | hayır |

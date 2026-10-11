@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "isLegalDocument": true,
+  "documentType": "privacy",
+  "summary": "Bu metin, Walt Disney Şirketler Grubu'nun sunduğu hizmetlerde kişisel verilerin nasıl toplandığını, kullanıldığını, üçüncü taraflarla paylaşıldığını ve kullanıcı haklarını açıklayan bir Gizlilik Politikası belgesidir.",
+  "score": 43,
+  "level": "medium",
+  "clauses": [
+    {
+      "category": "data_sharing",
+      "severity": "medium",
+      "quote": "belirli tanımlayıcılar veya karma e-posta adresi gibi sizinle ilgili sınırlı kişisel bilgileri üçüncü taraflarla paylaşabiliriz.",
+      "explanation_tr": "Şirket, reklam ve kişiselleştirme amaçlarıyla kullanıcı verilerini üçüncü taraf firmalarla paylaşabileceğini belirtmektedir.",
+      "advice_tr": "Hesap ve çerez ayarlarınızdan hedefli reklam ile veri paylaşımı tercihlerini kısıtlayabilirsiniz."
+    },
+    {
+      "category": "liability_limit",
+      "severity": "medium",
+      "quote": "sitelerimizde ve uygulamalarımızda bizim kontrolümüzde olmayan diğer sitelere bağlantılar olabileceğini ve bu sitelerin gizlilik uygulamalarından sorumlu olmadığımızı da unutmayın.",
+      "explanation_tr": "Şirket, dış bağlantılar aracılığıyla yönlendirilen üçüncü taraf web sitelerindeki veri işleme faaliyetlerinden sorumluluk kabul etmemektedir.",
+      "advice_tr": "Harici bir siteye yönlendirildiğinizde ilgili sitenin gizlilik politikasını incelemeniz tavsiye edilir."
+    },
+    {
+      "category": "unilateral_change",
+      "severity": "low",
+      "quote": "Yeni teknolojilere, sektörel uygulamalara, yasal şartlara veya diğer amaçlara ayak uydurmak amacıyla zaman zaman bu gizlilik politikasını değiştirebiliriz.",
+      "explanation_tr": "Şirket, gizlilik politikası hükümlerini tek taraflı olarak güncelleme hakkını saklı tutmaktadır.",
+      "advice_tr": "Değişikliklerden haberdar olmak adına politikanın güncel halini aralıklarla kontrol edebilirsiniz."
+    },
+    {
+      "category": "data_sharing",
+      "severity": "low",
+      "quote": "National Geographic Partners bu bilgileri National Geographic Society ile paylaşabilir ve paylaşıldıktan sonra bu bilgiler National Geographic Society’nin denetiminde olur",
+      "explanation_tr": "Belirli ortak girişimlerde paylaşılan verilerin başka kuruluşların denetimine gireceği ve onların şartlarına tabi olacağı düzenlenmiştir.",
+      "advice_tr": "İlgili ortak hizmetleri kullanırken verilerinizin aktarıldığı tarafın gizlilik kurallarını gözden geçirebilirsiniz."
+    }
+  ],
+  "unverified": [],
+  "uncertain": false,
+  "uncertaintyReasons": [],
+  "injection": {
+    "inText": [],
+    "hiddenOnly": []
+  }
+}

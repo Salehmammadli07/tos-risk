@@ -1,6 +1,6 @@
 // Her belgeyi modele sorar, ham raporları eval/runs/<etiket>/ altına yazar ve puanlar.
 // Kullanım: GEMINI_API_KEY=... [GEMINI_MODEL=...] [EVAL_LABEL=...] node eval/run.js
-import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { existsSync, readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { analyzeDocument } from '../src/core/analyze.js';
 import { createGeminiClient, DEFAULT_MODEL } from '../src/core/llm.js';
 import { scoreRun } from './score.js';
@@ -17,10 +17,16 @@ const sources = JSON.parse(readFileSync('eval/sources.json', 'utf8'));
 mkdirSync(`eval/runs/${label}`, { recursive: true });
 
 for (const s of sources) {
+  const out = `eval/runs/${label}/${s.id}.json`;
+  // Aynı etiketle yeniden çalıştırınca başarılı belgeler atlanır; yalnızca 503/429 ile düşenler denenir.
+  if (existsSync(out) && JSON.parse(readFileSync(out, 'utf8')).status === 'ok') {
+    console.log(`Atlandı (zaten var): ${s.name}`);
+    continue;
+  }
   const text = readFileSync(`eval/docs/${s.id}.txt`, 'utf8');
   console.log(`Analiz: ${s.name}`);
   const report = await analyzeDocument({ text, complete });
-  writeFileSync(`eval/runs/${label}/${s.id}.json`, JSON.stringify(report, null, 2));
+  writeFileSync(out, JSON.stringify(report, null, 2));
 }
 
 const r = scoreRun(label, { model });

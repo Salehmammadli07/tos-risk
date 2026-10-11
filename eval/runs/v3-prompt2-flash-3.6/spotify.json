@@ -1,0 +1,80 @@
+{
+  "status": "ok",
+  "isLegalDocument": true,
+  "documentType": "tos",
+  "summary": "Spotify Kullanım Şartları; otomatik yenilenen abonelikler, fiyat ve içerik değişiklikleri, cayma ve iade kısıtlamaları, geniş içerik lisansı, sorumluluk sınırlamaları ve toplu dava feragati gibi tüketici riskleri içeren hükümler barındırmaktadır.",
+  "score": 100,
+  "level": "high",
+  "clauses": [
+    {
+      "category": "auto_renewal",
+      "severity": "medium",
+      "quote": "Aksi belirtilmedikçe (örneğin, Ön Ödemeli Süre için kaydolduysanız) Ücretli Abonelikler iptal edilene kadar süresiz olarak devam eder.",
+      "explanation_tr": "Aboneliğiniz iptal edilmediği sürece otomatik olarak yenilenir ve kayıtlı ödeme yönteminizden ücret tahsil edilmeye devam edilir.",
+      "advice_tr": "İstenmeyen tahsilatların önüne geçmek için aboneliğinizi yenileme tarihinden önce iptal etmeyi unutmamalısınız."
+    },
+    {
+      "category": "unilateral_change",
+      "severity": "medium",
+      "quote": "fiyat değişikliği geçerli olduktan sonra Spotify Hizmeti'ni kullanmaya devam ederek yeni fiyatı kabul etmiş olursunuz.",
+      "explanation_tr": "Şirket fiyatları değiştirebilir ve bildirim sonrası hizmeti kullanmaya devam etmeniz yeni fiyatı onayladığınız anlamına gelir.",
+      "advice_tr": "Fiyat artışı bildirimlerini takip edip yeni fiyattan memnun değilseniz aboneliğinizi zamanında sonlandırabilirsiniz."
+    },
+    {
+      "category": "unilateral_change",
+      "severity": "medium",
+      "quote": "Spotify ya da ilgili sahipler belirli şarkılara, videolara, podcast'lere, sesli kitaplara ve diğer İçerikler'e erişimi önceden bildirimde bulunmaksızın kaldırabilir.",
+      "explanation_tr": "Şirket platformdaki şarkı ve diğer içerikleri önceden haber vermeksizin kaldırma hakkına sahiptir.",
+      "advice_tr": "Platformdaki içeriklerin erişilebilirliğinin garanti edilmediğini göz önünde bulundurmalısınız."
+    },
+    {
+      "category": "refund_cancel",
+      "severity": "medium",
+      "quote": "Satın alma işleminizin hemen sonrasında tarafınıza hizmeti sağlayacağımızı, cayma hakkınızı kaybedeceğinizi",
+      "explanation_tr": "Dijital hizmet anında sunulduğundan cayma hakkınız kısıtlanmakta veya ortadan kaldırılmaktadır.",
+      "advice_tr": "Satın alım yapmadan önce hizmet şartlarını dikkatlice incelemeniz faydalı olacaktır."
+    },
+    {
+      "category": "refund_cancel",
+      "severity": "medium",
+      "quote": "Bu Şartlar'da aksi belirtilmediği sürece kısmi üyelik dönemleri için iade veya kredi sunmayız.",
+      "explanation_tr": "Abonelik dönemi bitmeden yapılan iptallerde kullanılmayan günlere ilişkin ücret iadesi yapılmaz.",
+      "advice_tr": "İptal işlemini fatura kesim dönemine yakın bir tarihte gerçekleştirerek ödediğiniz dönemi değerlendirebilirsiniz."
+    },
+    {
+      "category": "content_license",
+      "severity": "high",
+      "quote": "her türlü \"manevi haktan\" veya eş değer haklardan feragat etmeyi ve bu tür haklardan yararlanmamayı da kabul edersiniz.",
+      "explanation_tr": "Platforma yüklediğiniz içeriklerle ilgili manevi haklarınızdan feragat etmeniz talep edilmektedir.",
+      "advice_tr": "Yüklediğiniz özgün içeriklerin hak devri koşullarını dikkate almalı, gerekirse bir hukukçuya danışmalısınız."
+    },
+    {
+      "category": "account_termination",
+      "severity": "high",
+      "quote": "Spotify, herhangi bir zamanda bu Şartlar'ı (buraya dahil edilen ek Spotify şartları ve koşulları dahil) feshedebilir ya da Spotify Hizmeti'ne erişiminizi askıya alabilir.",
+      "explanation_tr": "Şirket hesabınızı veya hizmet erişiminizi kendi takdiriyle askıya alabilir veya feshedebilir.",
+      "advice_tr": "Haksız bir kapatma veya askıya alma durumunda müşteri hizmetleri veya yasal merciler aracılığıyla hakkınızı arayabilirsiniz."
+    },
+    {
+      "category": "liability_limit",
+      "severity": "high",
+      "quote": "Spotify Hizmeti'nde yaşadığınız herhangi bir sorunda ya da memnuniyetsizlikte tek ve münhasır çözüm yolunuzun tüm Spotify yazılımını kaldırmak",
+      "explanation_tr": "Şirket yaşanabilecek sorunlardaki sorumluluğunu sınırlandırmakta ve tek çözümün uygulamayı silmek olduğunu belirtmektedir.",
+      "advice_tr": "Uğranılan maddi veya manevi zararlarda yasal haklarınızı öğrenmek adına hukuki danışmanlık alabilirsiniz."
+    },
+    {
+      "category": "arbitration_waiver",
+      "severity": "high",
+      "quote": "BİRBİRİNİZE KARŞI HERHANGİ BİR TOPLU YA DA TEMSİLİ GİBİ GÖRÜNEN DAVADA BİR DAVACI YA DA TOPLU DAVA TARAFI OLARAK DEĞİL, YALNIZCA KENDİ SIFATINIZLA İDDİADA BULUNABİLECEĞİNİZİ KABUL EDERSİNİZ.",
+      "explanation_tr": "Şirkete karşı toplu dava açma veya grup davalarına katılma hakkınız engellenmektedir.",
+      "advice_tr": "Uyuşmazlık durumunda bireysel başvuru yollarını ve tüketici hakem heyetlerini değerlendirebilirsiniz."
+    }
+  ],
+  "unverified": [],
+  "uncertain": false,
+  "uncertaintyReasons": [],
+  "injection": {
+    "inText": [],
+    "hiddenOnly": []
+  }
+}

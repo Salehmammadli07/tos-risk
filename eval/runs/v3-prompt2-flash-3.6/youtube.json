@@ -1,0 +1,52 @@
+{
+  "status": "ok",
+  "isLegalDocument": true,
+  "documentType": "tos",
+  "summary": "Bu belge, YouTube Hizmet Koşulları metni olup kullanıcılara sunulan hizmetin şartlarını, içerik yükleme lisanslarını, hesabın askıya alınması durumlarını, sorumluluk sınırlamalarını ve yetkili mahkeme hükümlerini içermektedir.",
+  "score": 85,
+  "level": "high",
+  "clauses": [
+    {
+      "category": "content_license",
+      "severity": "medium",
+      "quote": "tüm dünyada geçerli, münhasır olmayan, telifsiz, devredilebilir, alt lisanslanabilir bir lisans verirsiniz.",
+      "explanation_tr": "Platforma yüklediğiniz içerikler üzerinde şirkete dünya çapında geçerli, ücretsiz ve başkalarına devredilebilir geniş bir kullanım lisansı verilmektedir.",
+      "advice_tr": "Telif hakkı size ait hassas veya ticari içerikleri yüklemeden önce bu lisans devri şartını dikkate almanız önerilir."
+    },
+    {
+      "category": "account_termination",
+      "severity": "high",
+      "quote": "Google hesabınızı veya Hizmet'in tamamına veya bir kısmına erişiminizi askıya alma veya feshetme hakkını saklı tutar.",
+      "explanation_tr": "Şirket, sözleşme ihlali veya yasal risk teşkil eden durumlarda hesabınızı veya hizmete erişiminizi tek taraflı kapatabilir veya askıya alabilir.",
+      "advice_tr": "Hesabınızın kapatılması ihtimaline karşı içeriklerinizin ve verilerinizin yedeklerini düzenli olarak almanız faydalı olabilir."
+    },
+    {
+      "category": "arbitration_waiver",
+      "severity": "high",
+      "quote": "Bu Sözleşme ve YouTube ile bu Sözleşme kapsamındaki ilişkiniz İngiliz Kanunlarına tabi olacak ve yasal anlaşmazlıklar için İngiltere ve Galler mahkemelerine başvurulabilecektir.",
+      "explanation_tr": "Uyuşmazlık durumunda yabancı ülke kanunları (İngiliz Hukuku) geçerli kılınmış ve yetkili mahkeme olarak İngiltere gösterilmiştir.",
+      "advice_tr": "Yurt dışı mahkemelerinin yetkili kılınması hak arama süreçlerini zorlaştırabileceği için olası uyuşmazlıklarda bir hukukçuya danışabilirsiniz."
+    },
+    {
+      "category": "unilateral_change",
+      "severity": "medium",
+      "quote": "özellik ve işlev ekleme veya kaldırma, yeni dijital içerikler veya hizmetler sunma ya da eskilerini kullanımdan kaldırma gibi",
+      "explanation_tr": "Şirket, sunduğu hizmetin kapsamını, özelliklerini veya içeriğini dilediği zaman tek taraflı değiştirme hakkını saklı tutar.",
+      "advice_tr": "Hizmet şartlarında ve platform özelliklerinde yapılan güncellemeleri ve e-posta bildirimlerini düzenli olarak kontrol edebilirsiniz."
+    },
+    {
+      "category": "liability_limit",
+      "severity": "medium",
+      "quote": "Bu Sözleşme'de açıkça belirtilen veya yasaların gerektirdiği durumlar haricinde, YouTube Hizmet'e dair belirli hiçbir vaatte bulunmamaktadır.",
+      "explanation_tr": "Şirket, hizmetin kesintisizliği, güvenilirliği veya ihtiyaçlarınızı tam karşılayacağı hususunda herhangi bir garanti vermemekte ve sorumluluğunu sınırlamaktadır.",
+      "advice_tr": "Hizmet aksaklıklarından doğabilecek zararları önlemek adına kritik süreçlerinizde tek bir platforma bağımlı kalmamanız önerilir."
+    }
+  ],
+  "unverified": [],
+  "uncertain": false,
+  "uncertaintyReasons": [],
+  "injection": {
+    "inText": [],
+    "hiddenOnly": []
+  }
+}

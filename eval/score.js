@@ -46,11 +46,11 @@ export function scoreRun(label, meta = {}) {
     '',
     'Doğrulanamayan (metinde bulunamayan) iddialar rapora girmediği için yanlış alarm sayılmaz, ayrı sütunda gösterilir.',
     '',
-    '| Belge | Altın | Katı: yakalanan / kaçırılan / yanlış alarm | Hüküm: yakalanan / kaçırılan / yanlış alarm | Doğrulanamayan | Skor | Belirsiz |',
-    '|---|---|---|---|---|---|---|',
+    '| Belge | Altın | Katı yakalanan | Katı kaçırılan | Katı yanlış alarm | Hüküm yakalanan | Hüküm kaçırılan | Hüküm yanlış alarm | Doğrulanamayan | Skor | Belirsiz |',
+    '|---|---|---|---|---|---|---|---|---|---|---|',
     ...rows.map(({ s, gold, report, strict: st, para: pa }) => (st
       ? `| ${s.name} | ${gold.length} | ${cells(st)} | ${cells(pa)} | ${report.unverified.length} | ${report.score} | ${report.uncertain ? 'evet' : 'hayır'} |`
-      : `| ${s.name} | ${gold.length} | — | — | — | analiz başarısız: ${report.error} | — |`)),
+      : `| ${s.name} | ${gold.length} | — | — | — | — | — | — | — | analiz başarısız | — |`)),
     '',
     `**Katı:** yakalanan ${strict.C}, kaçırılan ${strict.M}, yanlış alarm ${strict.F} · precision ${strict.precision} · recall ${strict.recall}`,
     '',
