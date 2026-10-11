@@ -23,6 +23,7 @@
     "zod": "^4.6.5"
   },
   "devDependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "cypress": "^16.1.1",
     "esbuild": "^0.28.2",
     "jsdom": "^30.1.2",
