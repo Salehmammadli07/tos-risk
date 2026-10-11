@@ -1,18 +1,65 @@
 {
   "id": "amazon",
   "clauses": [
-    { "category": "content_license", "quote": "söz konusu içeriği dünya çapında kullanmak, çoğaltmak, yayınlamak, görüntülemek, tercüme etmek ve adapte etmek (bu lisansları üçüncü kişilere alt lisanslama hakkı da dahil) için münhasır olmayan, telifsiz hak veriyor olacaksınız", "note": "Yorum/değerlendirmelere geniş lisans." },
-    { "category": "account_termination", "quote": "Amazon hesabınızı kapatabilir veya Amazon Hizmetleri’ne erişiminizi ve bu hizmetlerini kullanımınızı kısıtlayabiliriz", "note": "Ciddi/tekrarlı ihlalde hesap kapatma." },
-    { "category": "account_termination", "quote": "yasal nedenlerle size önceden bildirim yapmayabiliriz", "note": "Bazı durumlarda bildirimsiz kapatma." },
-    { "category": "account_termination", "quote": "herhangi bir Amazon Yazılımı'nı kullanma hakkınızı herhangi bir zamanda önceden bildirimde bulunmaksızın feshedebiliriz", "note": "Yazılım kullanım hakkı bildirimsiz sonlandırılabilir." },
-    { "category": "data_sharing", "quote": "işlemler ile ilgili bilgilerinizi söz konusu taraf ile paylaşabiliriz", "note": "Üçüncü taraf satıcılarla bilgi paylaşımı." },
-    { "category": "liability_limit", "quote": "Amazon (i) kendisinin ihlaline bağlı olmaksızın ortaya çıkan zararlardan", "note": "Kullanım koşullarında dolaylı zarar/iş kaybı sorumluluğu yok." },
-    { "category": "liability_limit", "quote": "Amazon ve iştirakleri (i) kendisinin ihlaline bağlı olmaksızın ortaya çıkan zararlardan", "note": "Satış koşullarında aynı sınırlama." },
-    { "category": "liability_limit", "quote": "Amazon, tüm bunların veya diğer herhangi bir üçüncü tarafın eylemleri, ürünleri ve içerikleri için herhangi bir sorumluluk veya yükümlülük üstlenmemektedir", "note": "Üçüncü taraf satıcılar için sorumluluk yok." },
-    { "category": "unilateral_change", "quote": "web sitesinde yaptığımız değişiklikleri yansıtmak için herhangi bir zamanda değiştirme hakkını saklı tutarız", "note": "Kullanım koşulları tek taraflı değişebilir." },
-    { "category": "unilateral_change", "quote": "bu Satış Koşulları’nda herhangi bir zamanda değişiklik yapma hakkını saklı tutarız", "note": "Satış koşulları tek taraflı değişebilir." },
-    { "category": "refund_cancel", "quote": "ilk satın almanız ile ilgili teslimat masraflarını iade etmeyeceğiz. Benzer bir şekilde, nakliye riski ve iade masrafları da size aittir", "note": "Gönüllü iadede masraflar kullanıcıda." },
-    { "category": "refund_cancel", "quote": "Aşağıdakilere ilişkin sözleşmelerde iptal hakkı bulunmamaktadır veya zaman aşımına uğramaktadır", "note": "Cayma hakkı istisnaları (yasal, ama kullanıcının bilmesi gereken kısıt)." },
-    { "category": "auto_renewal", "quote": "hesabınızla ilişkili diğer geçerli ödeme yöntemlerini kullanabiliriz", "note": "Ödeme başarısızsa başka kayıtlı yöntemden otomatik çekim." }
+    {
+      "category": "content_license",
+      "quote": "söz konusu içeriği dünya çapında kullanmak, çoğaltmak, yayınlamak, görüntülemek, tercüme etmek ve adapte etmek (bu lisansları üçüncü kişilere alt lisanslama hakkı da dahil) için münhasır olmayan, telifsiz hak veriyor olacaksınız",
+      "note": "Yorum/değerlendirmelere geniş lisans."
+    },
+    {
+      "category": "account_termination",
+      "quote": "Amazon hesabınızı kapatabilir veya Amazon Hizmetleri’ne erişiminizi ve bu hizmetlerini kullanımınızı kısıtlayabiliriz",
+      "note": "Ciddi/tekrarlı ihlalde hesap kapatma."
+    },
+    {
+      "category": "account_termination",
+      "quote": "yasal nedenlerle size önceden bildirim yapmayabiliriz",
+      "note": "Bazı durumlarda bildirimsiz kapatma."
+    },
+    {
+      "category": "account_termination",
+      "quote": "herhangi bir Amazon Yazılımı'nı kullanma hakkınızı herhangi bir zamanda önceden bildirimde bulunmaksızın feshedebiliriz",
+      "note": "Yazılım kullanım hakkı bildirimsiz sonlandırılabilir."
+    },
+    {
+      "category": "data_sharing",
+      "quote": "işlemler ile ilgili bilgilerinizi söz konusu taraf ile paylaşabiliriz",
+      "note": "Üçüncü taraf satıcılarla bilgi paylaşımı."
+    },
+    {
+      "category": "liability_limit",
+      "quote": "Amazon (i) kendisinin ihlaline bağlı olmaksızın ortaya çıkan zararlardan",
+      "note": "Kullanım koşullarında dolaylı zarar/iş kaybı sorumluluğu yok."
+    },
+    {
+      "category": "liability_limit",
+      "quote": "Amazon ve iştirakleri (i) kendisinin ihlaline bağlı olmaksızın ortaya çıkan zararlardan",
+      "note": "Satış koşullarında aynı sınırlama."
+    },
+    {
+      "category": "liability_limit",
+      "quote": "Amazon, tüm bunların veya diğer herhangi bir üçüncü tarafın eylemleri, ürünleri ve içerikleri için herhangi bir sorumluluk veya yükümlülük üstlenmemektedir",
+      "note": "Üçüncü taraf satıcılar için sorumluluk yok."
+    },
+    {
+      "category": "unilateral_change",
+      "quote": "web sitesinde yaptığımız değişiklikleri yansıtmak için herhangi bir zamanda değiştirme hakkını saklı tutarız",
+      "note": "Kullanım koşulları tek taraflı değişebilir."
+    },
+    {
+      "category": "unilateral_change",
+      "quote": "bu Satış Koşulları’nda herhangi bir zamanda değişiklik yapma hakkını saklı tutarız",
+      "note": "Satış koşulları tek taraflı değişebilir."
+    },
+    {
+      "category": "refund_cancel",
+      "quote": "ilk satın almanız ile ilgili teslimat masraflarını iade etmeyeceğiz. Benzer bir şekilde, nakliye riski ve iade masrafları da size aittir",
+      "note": "Gönüllü iadede masraflar kullanıcıda."
+    },
+    {
+      "category": "refund_cancel",
+      "quote": "Aşağıdakilere ilişkin sözleşmelerde iptal hakkı bulunmamaktadır veya zaman aşımına uğramaktadır",
+      "note": "Cayma hakkı istisnaları (yasal, ama kullanıcının bilmesi gereken kısıt)."
+    }
   ]
 }
