@@ -1,0 +1,342 @@
+GİZLİLİK POLİTİKASI
+
+Son Değiştirme: 30.09.2025
+
+BU POLİTİKANIN KAPSAMI
+
+Bu gizlilik politikası, dijital varlıklarımızda veya üçüncü taraf sitelerde veya platformlarda kullanıma sunduğumuz uygulamalarda veya bu gizlilik politikasının yayınlandığı sitelerde ve uygulamalarda verilen veya toplanan bilgilerin işlenme şeklini açıklamaktadır. Ayrıca mağazalarımız, eğlence parklarımız, tatil köylerimiz ve yolcu gemilerimiz gibi fiziksel varlıklarımızda veya misafir çağrı merkezlerimizde bize sağlanan veya bizim tarafımızdan çevrimdışı olarak toplanan misafir bilgilerinin işlenmesini de açıklamaktadır. Bu gizlilik politikasını, faaliyette bulunduğumuz yerlerdeki geçerli kanunlara uygun olarak uygulamaktayız. Bazı durumlarda, belirli ürün, uygulama veya bölgelere ilişkin ek veri gizliliği bildirimleri sağlayabiliriz. Bu hükümler bu politikayla birlikte okunmalıdır.
+
+Lütfen bize bir üçüncü taraf site veya platformda bilgi verdiğinizde (örneğin uygulamalarımız aracılığıyla), verdiğiniz bilgilerin üçüncü taraf site veya platform tarafından ayrı olarak toplanabileceğini unutmayın. Bu gizlilik politikası kapsamında topladığımız bilgiler ve üçüncü taraf site veya platform tarafından toplananlar, üçüncü taraf site veya platformun gizlilik uygulamalarına tabidir. Üçüncü taraf site veya platformda yaptığınız gizlilik seçimleri, doğrudan uygulamalarımız üzerinden topladığımız bilgileri kullanımımız için geçerli değildir. Ayrıca, sitelerimizde ve uygulamalarımızda bizim kontrolümüzde olmayan diğer sitelere bağlantılar olabileceğini ve bu sitelerin gizlilik uygulamalarından sorumlu olmadığımızı da unutmayın. Sitelerimiz veya uygulamalarımızdan ayrılırken bunun farkında olmanızı ve kişisel bilgilerinizi toplayabilecek diğer sitelerin gizlilik politikalarını okumanızı öneririz.
+
+
+BİZ KİMİZ?
+
+Şirketimiz birçok farklı markayı içermektedir. Bizi ziyaret ettiğinizde, bizden alışveriş yaptığınızda veya bizde bir hesap oluşturduğunuzda ya da siteleri ve uygulamaları kullandığınızda, bilgileriniz Walt Disney Şirketleri’nin bir üyesi tarafından kontrol edilir. Veri denetleyicilerinin listesini burada bulabilirsiniz.
+
+TOPLADIĞIMIZ BİLGİ TÜRLERİ
+
+İki temel türde bilgileri toplamaktayız – kişisel bilgiler (bu politikada tanımlandığı şekliyle) ve anonim bilgiler (bu politikada tanımlandığı şekliyle) – ve kişisel bilgiler ile anonim bilgileri, üçüncü bir bilgi türü olarak toplu bilgiler (bu da, bu politikada tanımlanmıştır) oluşturmak amacıyla kullanabiliriz. Örneğin şunları toplarız:
+  - Bir hesap oluşturduğunuzda, promosyona katıldığınızda veya profilinizi kayıt hesabınızla bir üçüncü taraf siteye veya platforma bağladığınızda verdiğiniz adınız ve soyadınız, ikamet ettiğiniz ülke, cinsiyetiniz, doğum tarihiniz, e-posta adresiniz, kullanıcı adınız ve şifreniz gibi kayıt bilgileri;
+  - Bilgi talep ettiğinizde, Misafir Hizmetleri ile iletişim kurduğunuzda veya bizden bir ürün veya hizmet satın aldığınızda, iade ettiğinizde, talep ettiğinizde ya da değişimi yaptığınızda verdiğiniz posta adresiniz, telefon numaranız ve ödeme bilgileriniz gibi işlem bilgileri;
+  - Sitelerimiz veya uygulamalarımızdaki herkese açık forumlarda sağladığınız herkese açık gönderiler gibi bilgiler;
+  - Geçerli yasaların bu bilgileri toplamamıza izin verdiği hallerde; mesaj, sohbet, yayın veya benzeri fonksiyonlarımızı kullanarak birebir veya sınırlı bir grup içinde gönderilmiş bilgiler;
+  - Uygulamalarımızın üçüncü taraf platformlar veya cihazlarda kullanımına ilişkin site veya platform gibi bir üçüncü taraftan edindiğimiz bilgiler;
+  - asaların bu verileri işlememize izin verdiği hallerde; sitelerimiz, uygulamalarımız veya fiziksel varlıklarımızdan biriyle etkileşime giren (işaretçi teknolojileri aracılığıyla dâhil) veya IP adresinizle ya da başka bir çevrimiçi tanımlayıcı veya cihaz tanımlayıcısı ile ilişkili bir mobil cihaz veya başka bir cihaz tarafından sağlanan konum bilgileri dâhil konum bilgileri;
+  - Hesabınız üzerinden sizin veya sizin yetkilendirdiğiniz birinin (örneğin, Disney+ veya Hulu hesabınız altında profiller oluşturarak), görüntülediğiniz veya paylaştığınız içerik, hizmetlerimizi ne sıklıkta kullandığınız ve tercihleriniz gibi sitelerimiz ve uygulamalarımızı kullanımınıza ilişkin etkinlik bilgileri;
+  - Sitelerimizi ziyaret ettiğinizde, uygulamalarımızı üçüncü taraf site veya platformlarda kullandığınızda veya gönderdiğimiz e-postaları açtığınızda ya da kablosuz internet erişim hizmetlerimize veya benzer teknolojilerimize bağlandığınızda, tarayıcı veya cihaz türünüz, benzersiz cihaz tanımlayıcınız ve IP adresiniz dahil kullanım, görüntüleme ve cihaz verileri.
+  - Fiziksel varlıklarımız üzerinde veya çevresinde kameralar veya okuyucular tarafından yakalanan durağan görüntüler veya video görüntüleri; ve
+  - Rezervasyon merkezlerimizi veya diğer misafir hizmetleri telefon numaralarımızı aradığınızda arama kayıtları.
+
+BİLGİLERİNİZİ NASIL TOPLUYORUZ?
+
+- Bizden ürün, hizmet veya bilgi talep ettiğinizde, bize kaydolduğunuzda (profilinizi kayıt hesabınızla bir üçüncü taraf site veya platforma bağlamanız dahil), sitelerimiz veya uygulamalarımızdaki herkese açık forumlara katıldığınızda, misafir anketlerini yanıtladığınızda, fiziksel varlıklarımızı ziyaret ettiğinizde, rezervasyon merkezlerimizi ya da diğer misafir hizmetleri telefon numaralarımızı aradığınızda veya bir veya daha fazla cihaz kullanarak bizimle başka şekilde etkileşime geçtiğinizde bize verdiğiniz bilgileri toplarız. Yazarak veya sesli komutlar kullanarak dahil, bize çeşitli yollarla bilgi verebilirsiniz.
+  - Bir veya daha fazla cihaz kullanarak sitelerimiz ve uygulamalarımızı ziyaret ettiğinizde veya uygulamalarımızı üçüncü taraf siteler veya platformlarda kullandığınızda dahil, oturum açmış veya kaydolmuş olup olmamanız fark etmeksizin tanımlama bilgileri, Flash tanımlama bilgileri, pikseller, etiketler, yazılım geliştirme kitleri, uygulama program arabirimleri ve Web işaretçileri gibi çeşitli teknolojilerle bilgi toplarız. Lütfen Beni İzleme ve tanımlama bilgilerini devre dışı bırakma ve bu tür veri toplama işlemlerine ilişkin başka tercihler yapma hakkında daha fazla bilgi almak için Çevrimiçi İzleme Teknolojileri ve Reklam bölümünü ziyaret edin.
+  - Site veya uygulamalarımızı ziyaret ettiğiniz veya üçüncü taraf site veya platformlarda uygulamalarımızı kullandığınızda dahil, analiz araçlarını kullanarak bilgi toplarız.
+  - Üçüncü taraf hizmetleri kullanarak posta adresi bilgilerini doğrulamamız gibi, verdiğiniz veya otomatik olarak topladığımız bilgileri güncellemek veya desteklemek için diğer güvenilir kaynaklardan bilgi alırız. Yerel yasalar gereğince bilgilerinizi temin etmeden önce bu bilgilerinizi bizlerle paylaşmaları konusunda üçüncü tarafları yetkilendirmeniz gerekebilir.
+
+BİLGİLERİNİZİN WALT DISNEY ŞİRKETLER AİLESİ TARAFINDAN KULLANILMASI
+
+Walt Disney Şirketleri’nin bilgilerinizin veri denetleyicisi olan üyesi bu politikada açıklanan amaçlar doğrultusunda sorumludur ve bilgilerinizi bu amaçlarla kullanabilir. Geçerli yasalar tarafından yasaklanmıyorsa Walt Disney Şirketleri’nin diğer üyeleri, veri denetleyicileri adına hizmetleri gerçekleştirdikleri yerlerde (veri işleyicileri olarak) bu politikada açıklanan amaçlar doğrultusunda kendi adlarına kullanım için (veri denetleyicileri olarak) bilgilerinize erişim sağlayabilir. Geçerli yasalara ve size sunulmuş olan seçeneklere ve denetimlere uygun olarak, sizden veya sizinle ilişkilendirilen cihazlardan toplanan verileri şu amaçlarla kullanabiliriz:
+  - Talep ettiğiniz, görüntülediğiniz, etkileşime girdiğiniz veya satın aldığınız deneyim, ürün ve hizmetleri sağlamak;
+  - Hesabınız veya bizimle yaptığınız işlemler hakkında sizinle iletişim kurmak veya sitelerimiz ve uygulamalarımızdaki özellikler veya politikalarımızdaki değişiklikler hakkında ve size bilgi göndermek ve sizden geri bildirim istemek;
+  - Ürünler ve hizmetlerimiz veya üçüncü tarafların ürünleri ve hizmetleri hakkında sizlere teklifler ve promosyonlar göndermek;
+  - İçeriği ve deneyimleri kişiselleştirmek;
+  - Sitelerimiz ve uygulamalarımızdaki ve üçüncü taraf siteler ve uygulamalardaki etkinliğiniz temelinde size hedefe yönelik reklamlar sağlamak; 
+    - Kişiselleştirme ve izleme amacıyla bilgilerinizi nasıl kullandığımız hakkında daha fazla bilgi edinmek için lütfen Çevrimiçi İzleme Teknolojileri ve Reklam bölümünü ziyaret edin.
+  - Misafir anketi araştırma ve analiz araçlarını kullanarak da dahil olmak üzere, sitelerimiz, uygulamalarımız, ürünlerimiz, hizmetlerimiz ve faaliyetlerimizi gerçekleştirmek, anlamak, optimize etmek, geliştirmek veya iyileştirmek ve
+  - Politikalarımızı ihlal edebilecek, güvenlik sorunları oluşturabilecek ya da sahtekarlık amaçlı veya yasa dışı olabilecek etkinlikleri tespit etmek, soruşturmak ve önlemek; ve
+  - Sizi ürün geri çağırmaları veya güvenlik konuları hakkında bilgilendirmek.
+
+BİLGİLERİNİZİN DİĞER KURULUŞLARLA PAYLAŞILMASI
+
+Aşağıdakilerin de aralarında bulunduğu sınırlı durumlar dışında kişisel bilgilerinizi The Walt Disney Şirketleri dışında üçüncü bir tarafla paylaşmayız:
+  - Bu şirketlerin ürün ve hizmetleri hakkında size teklif ve promosyonlar gönderebilmesi için kişisel bilgilerinizi dikkatlice seçilmiş şirketlerle paylaşmayı tercih ederek kişisel verilerinizi başka bir şirketle paylaşmamıza izin verdiğinizde;
+  - Talebinizi yerine getirmek üzere kişisel bilgilerinizi başka bir şirketle paylaşma konusunda bize talimat verdiğinizde, örneğin: 
+    - Bizden hava yolları, kara yolu taşımacılığı sağlayıcıları, üçüncü taraf oteller ve seyahat sigortası sağlayıcıları gibi üçüncü taraf iş ortakları tarafından sağlanan mallar veya hizmetleri içeren seyahat paketleri rezerve ettiğinizde ve
+    - Bizim aracılığımızla, üçüncü tarafların işlettiği restoranlarda yemek rezervasyonu yaptığınızda.
+  - Kişisel bilgilerinizi sosyal ağ siteleri gibi üçüncü taraf siteler veya platformlarla paylaşma konusunda bize talimat verdiğinizde.
+  - Ancak bizim adımıza hizmet veren hizmet sağlayıcılarla çalıştığımızda, bu şirketlerin kişisel bilgilerinizi bizim tarafımızdan talep edilen veya yasaların gerektirdiği amaçlar dışında kullanmaları yasaktır;
+  - Size üçüncü taraf sitelerinde ve uygulamalarında ilgili reklamlar sağladığımızda, belirli tanımlayıcılar veya karma e-posta adresi gibi sizinle ilgili sınırlı kişisel bilgileri üçüncü taraflarla paylaşabiliriz. Bu tür kişisel bilgileri size sitelerimizde ve uygulamalarımızda ilgili üçüncü taraf reklamlarını sağlamak ve ölçmek için de paylaşabiliriz. Bilgilerinizi kişiselleştirme ve izleme için nasıl kullandığımız hakkında daha fazla bilgi edinmek için lütfen Çevrimiçi İzleme Teknolojileri ve Reklamcılık bölümünü ziyaret edin.
+  - Ortak markalı Disney Reward Visa Card’ımız gibi ortak markalı ürün veya hizmetleri size sunmak amacıyla finans kuruluşlarıyla iş birliği yaptığımız durumlar; ancak bunu sadece ilgili yasalarca izin verilen kapsamda yaparız. Bu gibi hallerde finans kuruluşlarının kişisel bilgilerinizi ortak markalı ürün veya hizmetlerle ilgili olanlar haricindeki amaçlar doğrultusunda kullanmaları yasaktır;
+  - The Walt Disney Company ve National Geographic Society arasındaki bir ortak girişim olan National Geographic Partners’a kişisel bilgilerinizi verdiğinizde, National Geographic Partners bu bilgileri National Geographic Society ile paylaşabilir ve paylaşıldıktan sonra bu bilgiler National Geographic Society’nin denetiminde olur ve bu şirketin gizlilik uygulamalarına tabi hale gelir;
+  - Hulu hizmetini kullandığınızda, Hulu, örneğin içerik programcıları, distribütörleri ve cihaz ortakları ve kurumsal sahipleri dâhil olmak üzere Hulu hizmetini sunmaya yardımcı olan iş ortaklarıyla bilgi paylaşabilir; onayınız üzerine Hulu, görüntüleme bilgilerinizi belirli kişisel bilgilerle birlikte bu ve diğer üçüncü taraflarla da paylaşabilir;
+  - Bir faaliyetin satışıyla bağlantılı olarak Kullanım Koşullarımızı veya kurallarımızı icra etmek, misafirlerimizin ve üçüncü tarafların güvenlik ve emniyetlerini sağlamak, haklarımızı ve mülklerimizi ve misafirlerimizin ve üçüncü tarafların haklarını ve mülklerini korumak, yasal sürece uygun hareket etmek amacıyla veya diğer hallerde açıklama yapmanın yasalarca zorunlu kılındığına inanmamız halinde kişisel bilgilerinizi üçüncü taraflarla paylaştığımız durumlar
+  - Yukarıda aksi belirtilmedikçe, yukarıdaki durumlarda kişisel bilgilerinizi başka bir şirketle paylaştığımızda, diğer şirketin almış olduğu bilgilerin artık bu şirketin denetiminde olduğunu ve onun gizlilik uygulamalarına tabi hale geldiğini lütfen unutmayın.
+
+DENETİMLERİNİZ VE TERCİHLERİNİZ
+
+Size, bilgilerinizi toplamamız, kullanmamız ve paylaşmamızla ilgili çeşitli denetim ve tercihleri kullanma imkânı sunmaktayız. Size belirli yasal haklar verebilen geçerli yasalara uygun olarak, denetimleriniz ve tercihleriniz aşağıdakileri içerebilir:
+
+______________________________
+
+Kişisel Bilgilerinizi Yönetme
+
+-> Denetimleriniz ve Tercihleriniz
+
+++ Kişisel bilgilerinize erişim, düzeltme ve silmenin yanı sıra kişisel bilgilerinizi kullanmamız ve paylaşmamız hakkında bilgi isteme
+
+—-> Veri Sahibi Hakları Portalına Git
+
+++ Sitelerimizden veya uygulamalarımızdan birindeki halka açık bir forumdan kişisel bilgilerinizin kaldırılmasını talep etme
+
+—-> Misafir Hizmetleri ile İletişime Geçin
+
+______________________________
+
+Hedefli Reklamcılık, Verilerin Satışı veya Paylaşımı ve Çerezler ile İlgili Tercihlerinizi Yönetme
+
+-> Denetimleriniz ve Tercihleriniz
+
+++ Hedefli Reklam, Veri Satışı veya Paylaşımı ve Çerezlerin Kontrol Etme
+
+—-> Seçiminizi yapmak veya güncellemek için, web sitesi alt bilgilerimizde veya uygulama ayarlarımızda “Kişisel Bilgilerimi Satmayın veya Paylaşmayın”, “Gizlilik Kontrolleriniz”, “Çerez Ayarlarınızı Yönetin”, “Çerez Tercihlerinizi Değiştirin” veya “(Gizlilik) Tercihlerinizi Yönetin” seçeneğine tıklayın. Daha fazla bilgi için Çevrimiçi İzleme Teknolojileri Ve Reklamcılık.
+
+______________________________
+
+Hesabınızı Yönetme
+
+-> Denetimleriniz ve Tercihleriniz
+
+++ Bize verdiğiniz iletişim bilgilerini güncelleme veya düzeltme, parolanızı sıfırlama veya kayıt hesabınızı silme ve çocuğunuzun kayıt hesabını yönetme
+
+—-> MyDisney hesabına gidin
+
+______________________________
+
+İletişim Yönetimi
+
+-> Denetimleriniz ve Tercihleriniz
+
+++ E-posta abonelikleri ve haber bültenleri için tercihlerinizi seçme veya değiştirme ve ürünlerimiz ve hizmetlerimiz veya ilginizi çekebileceğini düşündüğümüz diğer ürün ve hizmetler için bizden teklif ve fırsatlar alıp almayacağınızı seçme
+
+—-> Gizlilik Seçeneklerine git 
+
+Bu SSS’de e-posta tercihlerinizi yönetme hakkında daha fazla bilgi edinin.
+
+Hulu için, Hulu.com adresindeki Hulu Hesap Sayfanızı ziyaret edin ve Gizlilik ve Ayarlar menüsünden e-posta Bildirimlerini Yönet ögesini seçin.
+
+++ Bu şirketlerin ürün ve hizmetleri hakkında size teklif ve promosyonlar gönderebilmesi için kişisel bilgilerinizi diğer şirketlerle paylaşıp paylaşmayacağımızı seçme
+
+—-> Bir konuk bu seçeneği (ör. e-posta adresinin bir ortakla paylaşılmasını kabul etmesi gibi) seçmediği sürece kişisel bilgilerini doğrudan pazarlama amaçlı üçüncü taraflarla paylaşmayız.
+
+______________________________
+
+Ölçüm Teknolojilerini Yönetme
+
+-> Denetimleriniz ve Tercihleriniz
+
+++ Mümkün olduğunda Nielsen dijital ölçüm araştırmasına katılımı sınırlandırmayı seçme (Panelist olmayanlara yönelik)
+
+—-> Yukarıda Hedefli Reklamcılık, Verilerin Satışı veya Paylaşımı ve Çerezler ile ilgili Tercihlerinizi Yönetme bölümünde atıfta bulunulan seçeneklere ek olarak, Nielsen’in Dijital Ölçüm sitesinde de Oturum Açabilirsiniz
+
+++ Hulu’yu belirli oturma odası cihazlarında ve mobil uygulamalarda görüntülerken Nielsen Dijital Reklam Derecelendirmelerine katılımı sınırlandırmayı seçme
+
+—-> Bilgisayarınızda Hulu’da oturum açın ve Hulu Hesap Sayfanızda “Nielsen Ölçümünü Yönet” ögesine tıklayın
+
+++ Belirli oturma odası cihazlarında ve mobil uygulamalarda Disney+’ı görüntülerken Nielsen Dijital Reklam Derecelendirmelerine (mevcut olan pazarlarda) katılımı sınırlandırmayı seçme
+
+—-> Bilgisayarınızda Disney+’a giriş yapın ve Disney+ Hesap sayfanızda “Nielsen Ölçümünü Yönet” üzerine tıklayın
+
+______________________________
+
+Ürün Tabanlı Kontroller ve Tercihler
+
+-> Denetimleriniz ve Tercihleriniz
+
+++ Ayrıca, video veri paylaşımı ve ebeveyn kontrolleri (video akış hizmetlerimiz gibi) gibi ürün düzeyinde belirli kontroller ve tercihlere de sahip olabilirsiniz.
+
+—-> Web sitelerimizi ve uygulamalarımızı bu ek kontroller ve tercihlere sahip ürünler için kullanırsanız, ürün düzeyinde mevcut olabilecek bu kontroller ve seçimler sizin için erişilebilir olacaktır
+
+______________________________
+
+Bölgesel Kontroller ve Tercihler
+
+-> Denetimleriniz ve Tercihleriniz
+
+++ İkamet ettiğiniz ülke veya bölge yargı yetkisine bağlı olarak belirli kontrol ve tercihleriniz de olabilir.
+
+—-> Ülke veya bölgesel yargı yetkisi düzeyinde mevcut olabilecek bu kontrollere ve tercihlere, bölgeniz için varsa ek gizlilik bildiriminde erişebileceksiniz. Bu politikalara web site alt bilgilerimizden ve uygulama ayarlarından ve ayrıca Gizlilik Merkezimizdeki Gizlilik Politikası sekmesinin üzerine gelerek erişilebilir.
+
+Kişisel bilgilerinizi toplamamıza izin vermemeniz halinde, belirli deneyim, ürün ve hizmetleri size sunamayabileceğimizi ve hizmetlerimizden bazılarının ilgi duyduğunuz alanları ve tercihlerinizi göz önüne alamayabileceğini lütfen unutmayın. Kişisel bilgilerin toplanması zorunlu ise toplama anında bunu net şekilde belirtiriz, böylece katılıp katılmayacağınız konusunda bilinçli karar verebilirsiniz.
+
+ÇOCUKLAR İÇİN GİZLİLİK
+
+Sitelerimiz ve uygulamalarımızda çocuklardan toplayabileceğimiz kişisel bilgilerle ilgili olarak ilave gizlilik korumaları sağlamamız gerektiğinin farkındayız. Sitelerimiz ve uygulamalarımızdaki özelliklerin bazıları yaşa göre izin verilen özellikler olduğundan çocuklarca kullanılmasına izin verilmemektedir ve bu özelliklerle bağlantılı olarak da çocuklardan kişisel bilgileri bilinçli olarak toplamamaktayız. Çocuklardan kişisel bilgi toplamayı amaçladığımızda, çocukların gizliliğini korumak için şunlar dahil ilave önlemler almaktayız:
+  - Çocuklardan topladığımız kişisel bilgilerin türleri, bu bilgileri kullanım amaçlarımız ve bu bilgileri paylaşıp paylaşmadığımız ve kimlerle paylaşabileceğimiz gibi çocuklarla ilgili bilgi uygulamalarımız hakkında ebeveynlerin bilgilendirilmesi;
+  - Geçerli yasalar ve uygulamalarımız uyarınca, çocuklarının kişisel bilgilerinin toplanması için veya doğrudan çocuklarına ürünler ve hizmetlerimiz hakkında bilgiler gönderilmesi için ebeveynlerinden izin alınması;
+  - Çocuklardan kişisel bilgileri toplama işlemlerimizin en fazla çevrimiçi bir etkinliğe katılım için makul ölçülerde gerekli görülen bilgilerle sınırlandırılması ve
+  - Ebeveynlere çocuklarından toplamış olduğumuz kişisel bilgilere erişim veya erişim talep etme imkânının ve bu kişisel bilgilerin değiştirilmesini veya silinmesini talep etme imkânının verilmesi.
+
+Çocukların kişisel bilgileriyle ilgili olarak Amerika Birleşik Devletleri’ndeki uygulamalarımız hakkında ilave bilgi için lütfen Çocuklar için Gizlilik Politikası‘nı okuyun.
+
+VERİLERİN GÜVENLİĞİ, BÜTÜNLÜĞÜ VE TUTULMASI
+
+Bilgilerinizin güvenliği, bütünlüğü ve gizliliği bizim için oldukça önemlidir. Misafir bilgilerinin yetkisiz bir şekilde erişilmeye, açıklanmaya, kullanılmaya ve değiştirilmeye karşı korunması amacıyla tasarlanmış teknik, idari ve fiziksel güvenlik önlemlerini uygulamaya geçirdik. Uygun olan yeni teknolojileri ve yöntemleri değerlendirmek amacıyla da düzenli olarak güvenlik prosedürlerimizi gözden geçirmekteyiz. Ancak elimizden gelen her tür çabaya rağmen hiçbir güvenlik önleminin mükemmel olmadığını veya her türlü korumayı sağlamadığını da unutmamalısınız. Kişisel bilgileriniz, daha uzun bir tutma süresi gerekmediği veya yasalarca kısıtlanmadığı sürece yalnızca bu gizlilik politikasında belirtilen amaçlar doğrultusunda gereken süre boyunca tutulacaktır.
+
+VERİLERİN KÜRESEL ÇAPTA TRANSFERLERİ, DEPOLANMASI VE İŞLENMESİ
+
+Küresel çapta hizmet vermekteyiz ve kişisel bilgilerinizi, bu gizlilik sözleşmesinde belirtilen amaçlar doğrultusunda tüm dünyada farklı yerlerde bulunan Walt Disney Şirketleri’ne bağlı bağımsız şirketlere veya üçüncü taraflara aktarabiliriz. Kişisel bilgilerinizin tarafımızdan nereye aktarıldığından veya nerede depolandığından veya işlendiğinden bağımsız olarak, kişisel bilgilerinizin gizliliğini korumak amacıyla makul önlemler alacağız. Bu adımlar, yasalarca tanındığında; standart sözleşme maddelerinin uygulanmasını, onayınızı almayı veya kişisel bilgileri aktarmanın diğer yasal yollarını içerebilir.
+
+BU GİZLİLİK POLİTİKASINDAKİ DEĞİŞİKLİKLER
+
+Yeni teknolojilere, sektörel uygulamalara, yasal şartlara veya diğer amaçlara ayak uydurmak amacıyla zaman zaman bu gizlilik politikasını değiştirebiliriz. Bu değişikliklerin önemli olması halinde size bildirimde bulunacağız ve ilgili yasalarca gerekli görülen hallerde de onayınızı alacağız. Bildirimleri size bize verdiğiniz son e-posta adresine e-posta göndererek, söz konusu değişiklikleri site ve uygulamalarımızda yayınlayarak veya diğer yollarla, geçerli yasalara uygun şekilde, bildirebiliriz.
+
+GÖRÜŞLER VE SORULAR
+
+Bu gizlilik politikası hakkında bir görüşünüz veya sorunuz varsa lütfen Misafir Hizmetleri ile iletişime geçin.
+
+ABD’DE İKAMET EDENLERİN HAKLARI
+
+ABD’de İkamet Edenlere Bildirim: ABD’de ikamet ediyorsanız, yaşadığınız yere bağlı olarak, kişisel bilgileriniz veya kişisel verilerinizle ilgili olarak, haklarınızı kullandığınız için ayrımcılığa uğramama (geçerli yasa kapsamında belirtildiği gibi) hakkını içeren belirli haklara sahip olabilirsiniz.
+
+Örneğin geçerli yasa ve düzenlemeler kapsamında, istisnalara tabi olarak, aşağıdaki haklara sahip olabilirsiniz:
+  - hakkınızda topladığımız kişisel bilgileri bilmeyi ve bunlara erişim sağlamayı talep etmek;
+  - geçerli yasal istisnalara tâbi olarak hakkınızda topladığımız kişisel bilgileri silmemizi talep etmek;
+  - kişisel verileri açıkladığımız belirli üçüncü tarafların bir listesini talep etmek (geçerli yasalar ve düzenlemeler kapsamında tanımlanan terimler);
+  - kişisel bilgilerinizi güncellemeyi veya düzeltmeyi talep etmek;
+  - hedeflenmiş reklamları ve/veya kişisel bilgilerinizin satışını veya paylaşımını tercih dışı bırakma talebi (geçerli yasa ve düzenlemelerde tanımlandığı şekilde);
+  - kişisel bilgilerinizi kullanımımızı kısıtlamamızı talep etmek ve
+  - geçerli ABD eyaleti gizlilik yasaları ve düzenlemeleri kapsamında size sağlanabilecek diğer hakları ve seçenekleri kullanmak.
+
+ABD eyalet yasaları kapsamında kullanabileceğiniz haklar ve bu hakların nasıl kullanılacağı hakkında daha fazla bilgi için ABD Eyalet Gizlilik Hakları sayfamızı ziyaret edin. Ayrıca bu gizlilik politikasının Kontrolleriniz ve Seçenekleriniz bölümünde ek bilgi ve seçenekler bulabilirsiniz ve my.disney.com bölümündeki Walt Disney Şirketler Ailesinden iletişim seçimlerinizi yönetebilirsiniz.
+
+BİRLEŞİK KRALLIK, AB VE EMEA’DA İKAMET EDENLERİN HAKLARI
+
+Birleşik Krallık’ta ve Avrupa Birliği’nde ikamet edenler için bildirim: Birleşik Krallık’ta veya Avrupa Birliği’nde ikamet ediyorsanız, bazı ek gizlilik haklarına sahip olabilirsiniz. Daha fazla bilgi için Birleşik Krallık ve Avrupa Birliği Gizlilik Hakları sayfamızı ziyaret edin.
+
+Orta Doğu’da, Afrika’da veya AB’ye dahil olmayan Avrupa ülkelerinde ikamet ediyorsanız daha fazla bilgi için EMEA Gizlilik Hakları sayfamızı ziyaret edin.
+
+BREZİLYA'DA İKAMET EDENLERİN HAKLARI
+
+Brezilya’da ikamet edenler için bildirim: Brezilya’da ikamet ediyorsanız, bazı ek gizlilik haklarına sahip olabilirsiniz. Daha fazla bilgi için Brezilya’da Veri Koruması sayfamızı ziyaret edin.
+
+
+TANIMLAR
+
+TOPLU BİLGİLER
+
+Toplu bilgiler, bireysel bir misafiri tanımlamayan ve tanımlamak amacıyla kullanılması makul olmayan, misafir grupları veya kategorileri hakkındaki bilgilerdir.
+
+ANONİM BİLGİLER
+
+Anonim bilgiler doğrudan veya dolaylı olarak bireysel bir misafiri tanımlamayan ve tanımlamak amacıyla kullanılması makul olmayan bilgilerdir.
+
+UYGULAMA
+
+Uygulama, tarafımızca (veya adımıza) işletilen ve aralarında üçüncü taraflarca işletilenlerin de yer aldığı çeşitli çevrimiçi, mobil veya diğer platform ve ortamlarda görüntülenebilen, doğrudan misafirlerimizle etkileşim içinde olmamıza izin veren bir program veya hizmettir.
+
+ÇOCUK
+
+Çocuklar, kişisel bilgilerinin toplanması ve işlenmesi konusunda muvafakat verecek yasal yaşta olmadığını belirlediğimiz bireylerdir. Amerika Birleşik Devletleri’nde “çocuklar” terimi, 13 yaşın altındaki bireyleri ifade eder.
+
+VERİ DENETLEYİCİSİ
+
+Veri denetleyicisi, bu politika kapsamında sitelerimizden ve uygulamalarımızdan toplanan ve kullanılan kişisel bilgilerden aşağıdaki şekilde sorumlu olan The Walt Disney Company’nin bağlı kuruluşu veya iştiraki anlamına gelir:
+  - Birleşik Krallık, Avrupa, Ortadoğu veya Afrika’da yaşıyorsanız:
+   The Walt Disney Company Limited
+   (Şirket Sicil Numarası 530051)
+   3 Queen Caroline Street
+   Hammersmith
+   Londra
+   W6 9PE
+  help@disney.co.uk
+  - Latin Amerika’da yaşıyorsanız:
+   The Walt Disney Company (Arjantin) S.A.
+   Av. Leandro N. Alem 1050, Piso 13
+   Ciudad Autónoma de Buenos Aires
+   Arjantin
+  Latam.privacidad@disney.com
+  - Birleşik Krallık dışında ikamet eden bir Disney+ hizmeti AB abonesiyseniz, kişisel verileriniz aynı zamanda Disney+ hizmetinin sağlayıcısı olan:
+  The Walt Disney Company (Benelux) B.V., tarafından da denetlenir.
+   (Şirket Numarası 34076102)
+   Asterweg 15S
+   1031 HL Amsterdam
+   Hollanda
+  help@disneyplus.com
+  - AABD, Kanada ve Kalan Bölgeler:
+   Disney DTC LLC
+   500 South Buena Vista Street
+   Posta Kodu 7667
+   Burbank, CA 91521-7667
+   Amerika Birleşik Devletleri
+  Misafir Hizmetleri
+
+VERİ İŞLEYİCİSİ
+
+Veri işleyicisi, bir veri denetleyicisi (veya veri denetleyicileri) adına kişisel bilgileri işleyen ve veri işlemesine sadece veri denetleyicisi/denetleyicileri tarafından verilen talimatlar uyarınca izin verilen bir kişi veya kurumdur.
+
+IP ADRESİ
+
+IP adresi, internete girdiğiniz ve genelde İnternet Servis Sağlayıcınız (ISS), şirketiniz veya üniversiteniz tarafından denetlenen erişim noktasıyla ilişkilidir. IP adreslerini, misafirlerimizin sitelerimiz ve uygulamalarımızın muhtelif kısımlarını ziyaret etme sıklıklarıyla ilgili bilgileri toplamak amacıyla kullanabiliriz ve IP adreslerini kişisel bilgilerle birleştirebiliriz.
+
+ÜYE
+
+Üye, Walt Disney Şirketleri’nin bir parçasını oluşturan bir bağlı şirket veya iştiraktir.
+
+EBEVEYNLER
+
+Ebeveynler, bir ebeveyn veya yasal vasi anlamına gelmektedir.
+
+KİŞİSEL BİLGİLER
+
+Kişisel bilgiler, bireyin adı, posta adresi, e-posta adresi ve telefon numarası gibi belirli bir bireyi tanımlayan (doğrudan veya dolaylı olarak) bilgiler demektir. Anonim bilgiler doğrudan veya dolaylı olarak kişisel bilgilerle ilişkilendirildiğinde, elde edilen bu bilgiler de kişisel bilgiler olarak ele alınır.
+
+HERKESE AÇIK FORUMLAR
+
+Sitelerimiz ve uygulamalarımız, mesaj panoları, sohbet sayfaları, bloglar, sohbet odaları, sosyal topluluk ortamları, profil sayfaları ve sınırlı bir kitlesi olmayan diğer forumları sunabilir. Bu özelliklerden herhangi birini kullanırken kişisel bilgilerinizi verirseniz, bu kişisel bilgiler, tarafımızca veya bir üçüncü taraf tarafından kullanımına ilişkin herhangi bir sınırlama olmaksızın herkese açık bir şekilde yayınlanabilir veya bir başka şekilde açıklanabilir.
+
+WALT DISNEY ŞİRKETLERİ
+
+Walt Disney Şirketleri, The Walt Disney Company ile çeşitli markalar altında ürün ve hizmetlerini sunan bağlı şirketleri ve iştirakleri anlamına gelmektedir. Bu şirketler, aralarında temalı parklar ve seyahat, film ve televizyon, yayıncılık, tüketici ürünleri ve etkileşimli hizmetlerin de bulunduğu bir dizi faaliyette bulunmaktadır. The Walt Disney Company markaları arasında, diğerlerinin yanı sıra aşağıdakiler de yer almaktadır:
+  - ABC Entertainment
+  - ABC News
+  - Adventures by Disney
+  - Aulani, a Disney Resort & Spa
+  - Bamtech Media
+  - Bindass
+  - Buena Vista Catalog Company (including Disney Movie Club)
+  - D23 | The Official Disney Fan Club
+  - Disney Baby
+  - Disney Channels & DisneyNOW
+  - Disney Cruise Line
+  - Disney Digital Network
+  - Disney Family Movies
+  - Disney Movie Insiders
+  - Disney on Broadway
+  - Disney on Ice and Disney Live!
+  - Disney PhotoPass Service
+  - Disney Rewards Visa Card
+  - Disney Store
+  - Disney Vacation Club
+  - Disney+
+  - Disneyland Paris
+  - Disneyland Resort
+  - DisneyLife
+  - El Capitan Theatre
+  - ESPN
+  - ESPN CricInfo
+  - ESPN Deportes
+  - ESPN+
+  - FiveThirtyEight
+  - Freeform
+  - FX Networks
+  - Genx Entertainment Limited
+  - Hollywood Records
+  - Hulu
+  - Hungama TV
+  - Lucasfilm (Star Wars)
+  - Marvel
+  - Marvel Shop
+  - Marvel Digital Comics
+  - Muppets
+  - National Geographic
+  - Pixar Animation Studios
+  - Radio Disney
+  - Read Riordan
+  - The Undefeated
+  - 30 for 30 Podcasts
+  - United Home Entertainment Private Limited
+  - UTV Software Communication Limited
+  - Walt Disney Pictures
+  - Walt Disney Studios Home Entertainment
+  - Walt Disney World Resort

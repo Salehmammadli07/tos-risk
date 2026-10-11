@@ -1,0 +1,23 @@
+{
+  "id": "duolingo",
+  "clauses": [
+    { "category": "unilateral_change", "quote": "Any revisions to these Terms and Conditions will become effective the earlier of (i) the end of such 7-day period or (ii) the first time you access or use the Service after such changes.", "note": "Değişiklikler 7 gün içinde veya ilk kullanımda yürürlüğe girer." },
+    { "category": "unilateral_change", "quote": "Duolingo may, in its sole discretion and at any time, update, change, suspend, make improvements to or discontinue any aspect of the Service", "note": "Hizmet tek taraflı değiştirilebilir/sonlandırılabilir." },
+    { "category": "unilateral_change", "quote": "Duolingo may manage, regulate, control, modify, or eliminate Virtual Items at any time, with or without notice.", "note": "Satın alınan sanal ürünler bildirimsiz kaldırılabilir." },
+    { "category": "unilateral_change", "quote": "Duolingo may revise the pricing for the goods and services offered through the Service at any time.", "note": "Fiyatlar her an değişebilir." },
+    { "category": "content_license", "quote": "a full-paid, royalty free, perpetual, irrevocable, worldwide, nonexclusive, transferable, and sublicensable license", "note": "Kullanıcı içeriğine süresiz, iptal edilemez lisans." },
+    { "category": "content_license", "quote": "you hereby assign to Duolingo any and all rights, title, and interest, including any intellectual property rights or proprietary rights, in the Activity Materials", "note": "Etkinlik materyallerinin tüm hakları Duolingo'ya devredilir." },
+    { "category": "auto_renewal", "quote": "your subscription will automatically renew for an additional equivalent period", "note": "Abonelik otomatik yenilenir." },
+    { "category": "auto_renewal", "quote": "you will automatically become a recurring subscriber to the subscription plan you selected after your extended free trial ends", "note": "Deneme sonunda otomatik ücretli abonelik." },
+    { "category": "refund_cancel", "quote": "All payments are nonrefundable and there are no refunds or credits for Virtual Items or partially used membership periods", "note": "Ödemeler iade edilmez." },
+    { "category": "account_termination", "quote": "Duolingo may terminate your access and use of the Service immediately at any time, for any reason", "note": "Gerekçesiz ve derhal fesih." },
+    { "category": "liability_limit", "quote": "IS LIMITED TO THE AMOUNT PAID, IF ANY, BY YOU TO DUOLINGO FOR THE SERVICE IN THE 12 MONTHS PRIOR TO THE INITIAL ACTION GIVING RISE TO LIABILITY", "note": "Sorumluluk tavanı son 12 ayda ödenen tutar." },
+    { "category": "liability_limit", "quote": "ARE PROVIDED TO YOU ON AN “AS IS” BASIS", "note": "Garanti reddi." },
+    { "category": "liability_limit", "quote": "or any claim that any translation we provide to you is inaccurate, inappropriate or defective in any way whatsoever", "note": "Duolingo'nun kendi çevirisinin hatasından doğan talepler için kullanıcı tazmin eder." },
+    { "category": "arbitration_waiver", "quote": "SHALL BE RESOLVED BY BINDING ARBITRATION ON AN INDIVIDUAL BASIS", "note": "Zorunlu bireysel tahkim (30 gün içinde çıkış imkânı var)." },
+    { "category": "arbitration_waiver", "quote": "There shall be no class or collective arbitration, or joinder of claims", "note": "Toplu tahkim/dava yasağı." },
+    { "category": "arbitration_waiver", "quote": "regardless of your country of origin or where you access the Service", "note": "Pennsylvania hukuku, nerede olursanız olun." },
+    { "category": "data_sharing", "quote": "Duolingo may share data relating to your use of the Promotion Code with your Code Provider, including both anonymized, aggregate data, and individual usage data", "note": "Kod sağlayıcıya (ör. işveren) bireysel kullanım verisi." },
+    { "category": "data_sharing", "quote": "Duolingo and its third party providers and partners may place such advertising in connection with the display of content or information submitted by you or others", "note": "İçeriğe/bilgiye göre hedeflenen reklam." }
+  ]
+}

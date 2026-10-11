@@ -1,0 +1,23 @@
+{
+  "id": "spotify",
+  "clauses": [
+    { "category": "auto_renewal", "quote": "Ücretli Abonelikler iptal edilene kadar süresiz olarak devam eder. Her faturalandırma döneminin ilk gününde tekrar faturalandırılırsınız", "note": "Abonelik iptal edilene kadar her dönem otomatik ücretlendirilir." },
+    { "category": "refund_cancel", "quote": "Bu Şartlar'da aksi belirtilmediği sürece kısmi üyelik dönemleri için iade veya kredi sunmayız.", "note": "Kısmi dönem iadesi yok." },
+    { "category": "refund_cancel", "quote": "Avantajlı Kullanım sona ermeden önce Ücretli Abonelik'i iptal etmezseniz cayma hakkınızı kaybedersiniz", "note": "Deneme bitince cayma hakkı kaybolur ve ücretli aboneliğe geçilir." },
+    { "category": "refund_cancel", "quote": "Satın alma işleminizin hemen sonrasında tarafınıza hizmeti sağlayacağımızı, cayma hakkınızı kaybedeceğinizi", "note": "Hizmet hemen başladığı için cayma hakkı kaybedilir." },
+    { "category": "refund_cancel", "quote": "halihazırda yapmış olduğunuz ödemeleri iade etmeyeceğini kabul edersiniz", "note": "Fesih/askı halinde ödemeler iade edilmez." },
+    { "category": "unilateral_change", "quote": "Ücretli Abonelikler'in ücretini zaman zaman değiştirebilir", "note": "Fiyat tek taraflı değişebilir (bildirimle)." },
+    { "category": "unilateral_change", "quote": "Bu Şartlar'da yapılacak herhangi bir değişiklik sonrasında Spotify Hizmeti'ni kullanmanız, bu değişiklikleri kabul ettiğiniz anlamına gelir.", "note": "Şart değişiklikleri kullanmaya devam etmekle kabul edilmiş sayılır." },
+    { "category": "unilateral_change", "quote": "Spotify Hizmeti'nin tamamını veya bir kısmını değiştirebilir, askıya alabilir ya da (belirli işlevler, özellikler, abonelik planları ve promosyon teklifleri dahil) sağlamayı durdurabiliriz", "note": "Hizmet/özellikler tek taraflı değiştirilebilir veya kaldırılabilir." },
+    { "category": "account_termination", "quote": "Spotify, herhangi bir zamanda bu Şartlar'ı (buraya dahil edilen ek Spotify şartları ve koşulları dahil) feshedebilir ya da Spotify Hizmeti'ne erişiminizi askıya alabilir.", "note": "Şirket sözleşmeyi feshedebilir veya erişimi askıya alabilir." },
+    { "category": "account_termination", "quote": "Ücretli Aboneliği en az 14 gün önceden size bildirerek herhangi bir zamanda sonlandırma hakkını saklı tutarız", "note": "Ücretli abonelik gerekçesiz sonlandırılabilir." },
+    { "category": "content_license", "quote": "münhasır olmayan, devredilebilir, alt lisansı verilebilir, telifsiz, tamamen ödenmiş, iptal edilemez ve tüm dünyada geçerli bir lisans verirsiniz", "note": "Kullanıcı içeriğine geniş, iptal edilemez lisans." },
+    { "category": "data_sharing", "quote": "size reklam ve diğer bilgileri sunmamıza ve Spotify Gizlilik Politikası uyarınca izin verildiği üzere iş ortaklarımızın da aynısını yapmasına izin vermek", "note": "Reklam için iş ortaklarına izin." },
+    { "category": "liability_limit", "quote": "(a) Spotify'a ilk iddiadan önceki on iki ay içinde ödemiş olduğunuz tutar veya (b) 30,00 $ arasında hangisi daha yüksekse ilgili tutardaki toplam yükümlülük", "note": "Toplam sorumluluk tavanı." },
+    { "category": "liability_limit", "quote": "tek ve münhasır çözüm yolunuzun tüm Spotify yazılımını kaldırmak ve Spotify Hizmeti'ni kullanmayı durdurmak olduğunu kabul edersiniz", "note": "Tek çözüm yolu kullanmayı bırakmak." },
+    { "category": "liability_limit", "quote": "hiçbir türde açık, zımni veya yasal garanti olmaksızın sunulmaktadır", "note": "Garanti reddi." },
+    { "category": "arbitration_waiver", "quote": "zorunlu bağlayıcı bireysel tahkim ile çözümleneceğini", "note": "Zorunlu bireysel tahkim (uygulanabilir yargı bölgelerinde)." },
+    { "category": "arbitration_waiver", "quote": "YALNIZCA KENDİ SIFATINIZLA İDDİADA BULUNABİLECEĞİNİZİ KABUL EDERSİNİZ", "note": "Toplu dava feragati." },
+    { "category": "arbitration_waiver", "quote": "BİR (1) YIL içinde bir talep gönderilerek başlatılmalıdır", "note": "Talepler için 1 yıllık süre sınırı." }
+  ]
+}

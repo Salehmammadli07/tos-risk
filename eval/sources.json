@@ -1,0 +1,37 @@
+[
+  {
+    "id": "spotify",
+    "name": "Spotify Kullanım Şartları (TR)",
+    "url": "https://www.spotify.com/tr-tr/legal/end-user-agreement/",
+    "retrieved": "2026-10-11",
+    "chars": 45869
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube Hizmet Şartları (TR)",
+    "url": "https://www.youtube.com/t/terms?hl=tr",
+    "retrieved": "2026-10-11",
+    "chars": 25918
+  },
+  {
+    "id": "amazon",
+    "name": "Amazon.com.tr Kullanım ve Satış Koşulları (TR)",
+    "url": "https://www.amazon.com.tr/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM",
+    "retrieved": "2026-10-11",
+    "chars": 46129
+  },
+  {
+    "id": "disney",
+    "name": "Disney Gizlilik Politikası (TR)",
+    "url": "https://www.disneyplus.com/tr-tr/legal/",
+    "retrieved": "2026-10-11",
+    "chars": 28917
+  },
+  {
+    "id": "duolingo",
+    "name": "Duolingo Terms and Conditions (EN)",
+    "url": "https://www.duolingo.com/terms",
+    "retrieved": "2026-10-11",
+    "chars": 32965
+  }
+]

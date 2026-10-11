@@ -1,0 +1,17 @@
+{
+  "id": "disney",
+  "clauses": [
+    { "category": "data_sharing", "quote": "belirli tanımlayıcılar veya karma e-posta adresi gibi sizinle ilgili sınırlı kişisel bilgileri üçüncü taraflarla paylaşabiliriz", "note": "Reklam için üçüncü taraflarla tanımlayıcı/karma e-posta paylaşımı." },
+    { "category": "data_sharing", "quote": "Sitelerimiz ve uygulamalarımızdaki ve üçüncü taraf siteler ve uygulamalardaki etkinliğiniz temelinde size hedefe yönelik reklamlar sağlamak", "note": "Siteler arası etkinliğe dayalı hedefli reklam." },
+    { "category": "data_sharing", "quote": "kendi adlarına kullanım için (veri denetleyicileri olarak) bilgilerinize erişim sağlayabilir", "note": "Grup şirketleri verileri kendi amaçları için kullanabilir." },
+    { "category": "data_sharing", "quote": "Hulu hizmetini sunmaya yardımcı olan iş ortaklarıyla bilgi paylaşabilir", "note": "Hulu iş ortaklarıyla paylaşım; onayla izleme bilgisi de." },
+    { "category": "data_sharing", "quote": "Bir faaliyetin satışıyla bağlantılı olarak", "note": "Şirket/faaliyet satışında veriler devredilebilir." },
+    { "category": "data_sharing", "quote": "tüm dünyada farklı yerlerde bulunan Walt Disney Şirketleri’ne bağlı bağımsız şirketlere veya üçüncü taraflara aktarabiliriz", "note": "Yurt dışına veri aktarımı." },
+    { "category": "data_sharing", "quote": "diğer şirketin almış olduğu bilgilerin artık bu şirketin denetiminde olduğunu ve onun gizlilik uygulamalarına tabi hale geldiğini", "note": "Paylaşılan veri üzerinde kontrol kaybı." },
+    { "category": "data_sharing", "quote": "oturum açmış veya kaydolmuş olup olmamanız fark etmeksizin tanımlama bilgileri, Flash tanımlama bilgileri, pikseller, etiketler", "note": "Oturum açmadan da izleme teknolojileriyle veri toplama." },
+    { "category": "data_sharing", "quote": "IP adreslerini kişisel bilgilerle birleştirebiliriz", "note": "IP adresi kişisel bilgilerle eşleştirilebilir." },
+    { "category": "data_sharing", "quote": "herhangi bir sınırlama olmaksızın herkese açık bir şekilde yayınlanabilir veya bir başka şekilde açıklanabilir", "note": "Forumlarda paylaşılan kişisel bilgi sınırsız açıklanabilir." },
+    { "category": "unilateral_change", "quote": "zaman zaman bu gizlilik politikasını değiştirebiliriz", "note": "Politika tek taraflı değişebilir (önemli değişiklikte bildirim)." },
+    { "category": "liability_limit", "quote": "hiçbir güvenlik önleminin mükemmel olmadığını veya her türlü korumayı sağlamadığını", "note": "Veri güvenliği garanti edilmez." }
+  ]
+}

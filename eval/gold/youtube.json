@@ -1,0 +1,13 @@
+{
+  "id": "youtube",
+  "clauses": [
+    { "category": "content_license", "quote": "tüm dünyada geçerli, münhasır olmayan, telifsiz, devredilebilir, alt lisanslanabilir bir lisans verirsiniz", "note": "Yüklenen içeriğe YouTube'a geniş lisans." },
+    { "category": "content_license", "quote": "YouTube'a Hizmetteki İçeriklerinizden para kazanma hakkı sunarsınız", "note": "İçerikten para kazanma hakkı YouTube'a; sözleşme ödeme hakkı vermez." },
+    { "category": "unilateral_change", "quote": "özellik ve işlev ekleme veya kaldırma, yeni dijital içerikler veya hizmetler sunma ya da eskilerini kullanımdan kaldırma gibi (Hizmet'in tamamında veya bir kısmında geçerli olacak) değişiklikler yapabiliriz", "note": "Hizmet tek taraflı değiştirilebilir." },
+    { "category": "unilateral_change", "quote": "Yeni şartları kabul etmiyorsanız yüklediğiniz tüm İçerikleri kaldırmanız ve Hizmet'i kullanmayı bırakmanız gerekir.", "note": "Şart değişikliğine itirazın tek yolu hizmeti bırakmak." },
+    { "category": "account_termination", "quote": "Google hesabınızı veya Hizmet'in tamamına veya bir kısmına erişiminizi askıya alma veya feshetme hakkını saklı tutar", "note": "Hesap askıya alınabilir/feshedilebilir (sebepler sayılmış)." },
+    { "category": "liability_limit", "quote": "YouTube Hizmet'e dair belirli hiçbir vaatte bulunmamaktadır", "note": "Hizmet hakkında vaat/garanti yok." },
+    { "category": "liability_limit", "quote": "Geçerli yasaların izin verdiği ölçüde, YouTube ve İş Ortakları şunlardan sorumlu olmayacaktır", "note": "Sorumluluk istisnaları." },
+    { "category": "arbitration_waiver", "quote": "İngiliz Kanunlarına tabi olacak ve yasal anlaşmazlıklar için İngiltere ve Galler mahkemelerine başvurulabilecektir", "note": "Yabancı hukuk ve mahkeme (zorunlu yerel yasa saklı)." }
+  ]
+}
