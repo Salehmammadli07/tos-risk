@@ -1,0 +1,109 @@
+{
+  "status": "ok",
+  "isLegalDocument": true,
+  "documentType": "tos",
+  "summary": "Duolingo kullanım koşulları belgesi; otomatik yenileme, zorunli tahkim, veri paylaşımı ve sorumluluk sınırlamaları gibi tüketici aleyhine hükümler içermektedir.",
+  "score": 100,
+  "level": "high",
+  "clauses": [
+    {
+      "category": "auto_renewal",
+      "severity": "high",
+      "quote": "After your initial subscription period, and again after any subsequent subscription period, your subscription will automatically renew for an additional equivalent period.",
+      "explanation_tr": "Aboneliğiniz siz iptal etmediğiniz sürece otomatik olarak yenilenir ve ücreti tahsil edilir.",
+      "advice_tr": "Otomatik yenilemeyi kapatmak için hesap ayarlarınızı takip edebilirsiniz."
+    },
+    {
+      "category": "auto_renewal",
+      "severity": "high",
+      "quote": "If you redeem an Extended Free Trial Code, unless you cancel at least 24 hours before your extended free trial ends, you will automatically become a recurring subscriber",
+      "explanation_tr": "Ücretsiz deneme süresi bitiminden en az 24 saat önce iptal etmezseniz aboneliğiniz otomatik olarak ücretli hale gelir.",
+      "advice_tr": "Deneme sürümlerini kullanırken iptal sürelerine dikkat etmeniz yararlı olabilir."
+    },
+    {
+      "category": "data_sharing",
+      "severity": "medium",
+      "quote": "If you redeem a Promotion Code from a Code Provider, you understand and agree that Duolingo may share data relating to your use of the Promotion Code with your Code Provider",
+      "explanation_tr": "Promosyon kodunu aldığınız üçüncü taraf sağlayıcı ile kullanım verileriniz paylaşılabilir.",
+      "advice_tr": "Verilerinizin kimlerle paylaşılabileceğini incelemeniz önerilir."
+    },
+    {
+      "category": "unilateral_change",
+      "severity": "medium",
+      "quote": "Duolingo may amend, update, or change these Terms and Conditions.",
+      "explanation_tr": "Şirket, kullanım koşullarını tek taraflı olarak değiştirebilir.",
+      "advice_tr": "Koşullardaki değişiklikleri düzenli olarak kontrol edebilirsiniz."
+    },
+    {
+      "category": "unilateral_change",
+      "severity": "medium",
+      "quote": "Duolingo may update the pricing of Virtual Items at any time in its sole discretion, and may add new Virtual Items for additional fees.",
+      "explanation_tr": "Şirket, sanal ürünlerin fiyatlarını tek taraflı olarak değiştirebilir.",
+      "advice_tr": "Fiyat değişikliklerini takip etmek faydalı olabilir."
+    },
+    {
+      "category": "arbitration_waiver",
+      "severity": "high",
+      "quote": "ANY DISPUTE OR CLAIM RELATING TO THESE TERMS AND CONDITIONS OR THE SERVICE AND SEEKING MONETARY RELIEF SHALL BE RESOLVED BY BINDING ARBITRATION ON AN INDIVIDUAL BASIS",
+      "explanation_tr": "Uyuşmazlıklar mahkeme yerine zorunlu tahkim yoluyla bireysel olarak çözülür.",
+      "advice_tr": "Tahkim şartına karşı belirli bir süre içinde e-posta ile itiraz etme hakkınızı değerlendirebilirsiniz."
+    },
+    {
+      "category": "arbitration_waiver",
+      "severity": "high",
+      "quote": "There shall be no class or collective arbitration, or joinder of claims",
+      "explanation_tr": "Toplu dava açma hakkından feragat edilmiştir.",
+      "advice_tr": "Hak arama yollarının kısıtlandığına dikkat ediniz."
+    },
+    {
+      "category": "account_termination",
+      "severity": "high",
+      "quote": "Duolingo may terminate your access and use of the Service immediately at any time, for any reason, and at such time you will have no further right to use the Service.",
+      "explanation_tr": "Şirket, hesabınızı herhangi bir gerekçe göstermeksizin derhal sonlandırabilir.",
+      "advice_tr": "Hesap güvenliğinize ve kurallara uymaya özen gösterebilirsiniz."
+    },
+    {
+      "category": "liability_limit",
+      "severity": "high",
+      "quote": "DUOLINGO AND ITS SUPPLIERS MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND WITH RESPECT TO THE SERVICE, EITHER EXPRESS OR IMPLIED",
+      "explanation_tr": "Hizmetin hatasız veya kesintisiz çalışacağına dair hiçbir garanti verilmemektedir.",
+      "advice_tr": "Hizmeti olduğu gibi kabul ettiğinizi bilerek kullanınız."
+    },
+    {
+      "category": "refund_cancel",
+      "severity": "high",
+      "quote": "All payments are nonrefundable and there are no refunds or credits for Virtual Items or partially used membership periods",
+      "explanation_tr": "Kısmen kullanılan üyelikler veya sanal ürünler için iade yapılmaz.",
+      "advice_tr": "Satın alım yapmadan önce iade politikasını dikkatlice okuyunuz."
+    }
+  ],
+  "unverified": [
+    {
+      "category": "liability_limit",
+      "severity": "high",
+      "quote": "DUOLINGO’S LIABILITY TO YOU OR ANY THIRD PARTY CLAIMING THROUGH YOU FOR ANY CAUSE WHATSOEVER... IS LIMITED TO THE AMOUNT PAID, IF ANY, BY YOU TO DUOLINGO FOR THE SERVICE IN THE 12 MONTHS",
+      "explanation_tr": "Şirketin olası zararlardan sorumluluğu son 12 ayda ödediğiniz tutarla sınırlıdır.",
+      "advice_tr": "Hukuki uyuşmazlıklarda tazminat sınırını göz önünde bulundurunuz."
+    },
+    {
+      "category": "content_license",
+      "severity": "medium",
+      "quote": "you hereby grant to Duolingo a full-paid, royalty free, perpetual, irrevocable, worldwide, nonexclusive, transferable, and sublicensable license to use... the Content",
+      "explanation_tr": "Yüklediğiniz içerikler üzerinde şirkete dünya çapında, kalıcı ve ücretsiz bir lisans vermiş olursunuz.",
+      "advice_tr": "Hangi içerikleri yüklediğinize dikkat ediniz."
+    },
+    {
+      "category": "content_license",
+      "severity": "medium",
+      "quote": "all data, information, and materials generated from your access and use of the educational activities... shall be exclusively owned by Duolingo",
+      "explanation_tr": "Eğitim faaliyetleri sırasında üretilen tüm veri ve materyallerin mülkiyeti şirkete aittir.",
+      "advice_tr": "Ürettiğiniz içeriklerin haklarının şirkete devredildiğini unutmayınız."
+    }
+  ],
+  "uncertain": false,
+  "uncertaintyReasons": [],
+  "injection": {
+    "inText": [],
+    "hiddenOnly": []
+  }
+}

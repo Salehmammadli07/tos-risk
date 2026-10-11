@@ -32,3 +32,30 @@ describe('matchClauses', () => {
     expect(r.falseAlarms).toEqual([]);
   });
 });
+
+describe('matchByParagraph', () => {
+  const RAW = [
+    'Duolingo may amend these Terms. Any revisions will become effective after 7 days.',
+    '',
+    'All payments are nonrefundable and there are no refunds for partial periods.',
+  ].join('\n');
+  const gold = [
+    g('unilateral_change', 'Any revisions will become effective after 7 days.'),
+    g('refund_cancel', 'All payments are nonrefundable and there are no refunds'),
+  ];
+  it('aynı paragraftan farklı cümle + aynı kategori = yakalandı', async () => {
+    const { matchByParagraph } = await import('./match.js');
+    const r = matchByParagraph([g('unilateral_change', 'Duolingo may amend these Terms.')], gold, RAW);
+    expect(r.caught).toHaveLength(1);
+    expect(r.missed.map((m) => m.category)).toEqual(['refund_cancel']);
+  });
+  it('başka paragraf ya da başka kategori = yanlış alarm', async () => {
+    const { matchByParagraph } = await import('./match.js');
+    const r = matchByParagraph([
+      g('unilateral_change', 'there are no refunds for partial periods'),
+      g('liability_limit', 'Duolingo may amend these Terms.'),
+    ], gold, RAW);
+    expect(r.caught).toHaveLength(0);
+    expect(r.falseAlarms).toHaveLength(2);
+  });
+});

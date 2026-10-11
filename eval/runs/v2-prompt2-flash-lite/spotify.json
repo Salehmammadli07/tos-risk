@@ -1,0 +1,109 @@
+{
+  "status": "ok",
+  "isLegalDocument": true,
+  "documentType": "tos",
+  "summary": "Bu belge, Spotify müzik ve içerik akışı hizmetinin kullanımına ilişkin şartları, kullanıcı yükümlülüklerini, ödeme ve iptal koşullarını, içerik lisanslama esaslarını ve uyuşmazlıkların çözümüne yönelik kuralları düzenlemektedir.",
+  "score": 78,
+  "level": "high",
+  "clauses": [
+    {
+      "category": "unilateral_change",
+      "severity": "medium",
+      "quote": "Spotify, Spotify Hizmeti ile herhangi bir belirli içeriği sunmakla yükümlü değildir ve Spotify ya da ilgili sahipler belirli şarkılara, videolara, podcast'lere, sesli kitaplara ve diğer İçerikler'e erişimi önceden bildirimde bulunmaksızın kaldırabilir.",
+      "explanation_tr": "Şirket, platformdaki içerikleri önceden haber vermeksizin kaldırma hakkına sahiptir.",
+      "advice_tr": "Favori içeriklerinizin her an kaldırabileceğini göz önünde bulundurun."
+    },
+    {
+      "category": "account_termination",
+      "severity": "medium",
+      "quote": "Spotify herhangi bir gerekçeyle kullanıcı adınızı geri alabilir veya değiştirmenizi gerekli kılabilir.",
+      "explanation_tr": "Şirket, herhangi bir sebep göstermeksizin kullanıcı adınızı değiştirebilir veya geri alabilir.",
+      "advice_tr": "Kullanıcı adı seçiminde bu riski göz önünde bulundurabilirsiniz."
+    },
+    {
+      "category": "refund_cancel",
+      "severity": "low",
+      "quote": "Bu Şartlar'da aksi belirtilmediği sürece kısmi üyelik dönemleri için iade veya kredi sunmayız.",
+      "explanation_tr": "Kullanılmayan kısmi dönemler için ücret iadesi yapılmamaktadır.",
+      "advice_tr": "İptal işlemlerinizi fatura dönemi bitiminden önce yapmaya özen gösterin."
+    },
+    {
+      "category": "account_termination",
+      "severity": "medium",
+      "quote": "Bu Şartlar kapsamında sahip olduğumuz diğer haklara ilaveten ve bunlardan bağımsız olarak, Ücretli Aboneliği en az 14 gün önceden size bildirerek herhangi bir zamanda sonlandırma hakkını saklı tutarız.",
+      "explanation_tr": "Şirket, ücretli aboneliğinizi 14 gün önceden bildirimde bulunarak her zaman sonlandırabilir.",
+      "advice_tr": "Aboneliğinizin şirket tarafından sonlandırılması durumunda alternatif hizmetleri değerlendirebilirsiniz."
+    },
+    {
+      "category": "liability_limit",
+      "severity": "high",
+      "quote": "Ancak bu duruma tabi olmak üzere Spotify Hizmeti \"olduğu gibi\" ve \"kullanılabilir olduğu şekliyle\", hiçbir türde açık, zımni veya yasal garanti olmaksızın sunulmaktadır.",
+      "explanation_tr": "Hizmet hiçbir garanti verilmeksizin 'olduğu gibi' sunulmakta olup yaşanacak aksaklıklarda şirketin sorumluluğu sınırlandırılmaktadır.",
+      "advice_tr": "Hizmet kesintilerine karşı hazırlıklı olmalısınız."
+    },
+    {
+      "category": "liability_limit",
+      "severity": "high",
+      "quote": "Spotify, yetkilileri, hissedarları, çalışanları, temsilcileri, yöneticileri, bağlı ortaklıkları, iştirakleri, halefleri, görevlileri, tedarikçileri veya lisans sağlayıcıları hiçbir durumda şunlardan sorumlu olmayacaktır: (1) her türlü dolaylı, özel, arızi, cezai, örnek niteliğindeki veya bağlı zarardan; (2) Spotify Hizmeti'nin, cihazların, üçüncü taraf uygulamalarının veya üçüncü taraf uygulama içeriğinin kullanılmasından veya kullanılamamasından kaynaklanan her durumda kullanım kaybı, veri kaybı, iş veya kâr kaybından",
+      "explanation_tr": "Şirket, hizmetin kullanımından doğabilecek veri, kâr veya iş kayıpları gibi birçok zarardan sorumlu tutulamamaktadır.",
+      "advice_tr": "Önemli verilerinizi yedeklemeniz faydalı olabilir."
+    },
+    {
+      "category": "arbitration_waiver",
+      "severity": "high",
+      "quote": "GEÇERLİ KANUNLARIN İZİN VERDİĞİ DURUMLARDA SİZ VE SPOTIFY, BİRBİRİNİZE KARŞI HERHANGİ BİR TOPLU YA DA TEMSİLİ GİBİ GÖRÜNEN DAVADA BİR DAVACI YA DA TOPLU DAVA TARAFI OLARAK DEĞİL, YALNIZCA KENDİ SIFATINIZLA İDDİADA BULUNABİLECEĞİNİZİ KABUL EDERSİNİZ.",
+      "explanation_tr": "Tüketiciler toplu dava açma hakkından feragat etmekte, haklarını yalnızca bireysel olarak arayabilmektedir.",
+      "advice_tr": "Uyuşmazlık durumunda bireysel hukuki yolları araştırmanız gerekebilir."
+    }
+  ],
+  "unverified": [
+    {
+      "category": "unilateral_change",
+      "severity": "medium",
+      "quote": "Ancak sunumlarımız ve bunların kullanılabilirlikleri zaman zaman ve geçerli kanunlara tabi olmak üzere, size karşı hiçbir yükümlülük olmaksızın değişebilir",
+      "explanation_tr": "Şirket, hizmet özelliklerini ve sunumlarını önceden bildirimde bulunmaksızın ve tüketiciye yükümlülük olmaksızın değiştirebilir.",
+      "advice_tr": "Hizmet kapsamındaki değişiklikleri takip etmeniz önerilir."
+    },
+    {
+      "category": "unilateral_change",
+      "severity": "medium",
+      "quote": "Spotify; düzenli abonelik ücretleri, Ön Ödeme Dönemi (henüz ödemesi yapılmamış dönemler için) ya da Kodlar dahil Ücretli Abonelikler'in ücretini zaman zaman değiştirebilir ve her türlü fiyat değişikliğini makul bir süre önce size bildirecektir.",
+      "explanation_tr": "Şirket, abonelik fiyatlarını tek taraflı olarak artırma hakkına sahiptir.",
+      "advice_tr": "Fiyat artışı bildirimlerini düzenli olarak kontrol edin."
+    },
+    {
+      "category": "account_termination",
+      "severity": "high",
+      "quote": "Bu Şartlar'ı ihlal ettiğinizi düşünürsek, tarafınıza makul bir süre öncesinde bildirimde bulunarak Spotify Hizmeti'ni ya da herhangi bir önemli bileşenini tarafınıza sağlamayı durdurursak veya geçerli kanunlara uyum amacıyla bunun gerekli olduğunu düşündüğümüz durumlarda Spotify, herhangi bir zamanda bu Şartlar'ı feshedebilir ya da Spotify Hizmeti'ne erişiminizi askıya alabilir.",
+      "explanation_tr": "Şirket, ihlal şüphesi veya yasal zorunluluk gerekçeleriyle hesabınızı askıya alabilir veya sözleşmeyi feshedebilir.",
+      "advice_tr": "Hesabınızın askıya alınmaması için kullanım kurallarına dikkat edin."
+    },
+    {
+      "category": "arbitration_waiver",
+      "severity": "high",
+      "quote": "Siz ve Spotify, bu Sözleşmeler ile veya Hizmet'in bir kullanıcısı olarak Spotify ile aranızdaki ilişkiyle herhangi bir şekilde bağlantılı ya da ilişkili olarak Spotify ile aranızda oluşan her türlü anlaşmazlığın, iddianın veya çatışmanın... zorunlu bağlayıcı bireysel tahkim ile çözümleneceğini kabul edesiniz.",
+      "explanation_tr": "Anlaşmazlıkların mahkeme yerine zorunlu bağlayıcı tahkim yoluyla çözülmesi şart koşulmaktadır.",
+      "advice_tr": "Hukuki uyuşmazlıklarda tahkim kurallarını incelemeniz önerilir."
+    },
+    {
+      "category": "unilateral_change",
+      "severity": "medium",
+      "quote": "Bu Şartlar'da (buraya referans olarak dahil edilen diğer Spotify şartları ve koşulları dahil) zaman zaman sizi ilgili değişiklikler konusunda... bilgilendirmek suretiyle değişiklikler yapabiliriz.",
+      "explanation_tr": "Şirket, sözleşme şartlarında tek taraflı değişiklik yapma hakkını saklı tutmaktadır.",
+      "advice_tr": "Sözleşme güncellemelerini düzenli olarak takip edin."
+    },
+    {
+      "category": "content_license",
+      "severity": "high",
+      "quote": "Bu doğrultuda Spotify'a herhangi bir Kullanıcı İçeriğinizi Spotify Hizmeti ile bağlantılı olarak herhangi bir ortam aracılığıyla... çoğaltmak, herkese açık hale getirmek, icra etmek ve göstermek, tercüme etmek, değiştirmek, türev eserlerini oluşturmak ve dağıtmak üzere münhasır olmayan, devredilebilir, alt lisansı verilebilir, telifsiz, tamamen ödenmiş, iptal edilemez ve tüm dünyada geçerli bir lisans verirsiniz.",
+      "explanation_tr": "Kullanıcıların yüklediği içerikler üzerinde şirkete dünya çapında, telifsiz ve geniş kullanım lisansı verilmektedir.",
+      "advice_tr": "Platforma yüklediğiniz içeriklerin telif ve kullanım haklarına dikkat edin."
+    }
+  ],
+  "uncertain": false,
+  "uncertaintyReasons": [],
+  "injection": {
+    "inText": [],
+    "hiddenOnly": []
+  }
+}

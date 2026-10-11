@@ -1,0 +1,53 @@
+{
+  "status": "ok",
+  "isLegalDocument": true,
+  "documentType": "tos",
+  "summary": "Amazon.com.tr kullanım ve satış şartları metni olup otomatik yenileme, içerik lisanslama, hesap kapatma, sorumluluk sınırlamaları ve tek taraflı değişiklik hükümleri içermektedir.",
+  "score": 30,
+  "level": "medium",
+  "clauses": [
+    {
+      "category": "unilateral_change",
+      "severity": "medium",
+      "quote": "Bu Kullanım Koşulları’nı ve web sitesindeki tüm yönergeleri veya politikaları, yasal veya düzenleyici nedenlerle daha açık veya daha kolay anlaşılır hale getirmek ve/veya web sitesinde yaptığımız değişiklikleri yansıtmak için herhangi bir zamanda değiştirme hakkını saklı tutarız.",
+      "explanation_tr": "Şirket, kullanım koşullarını dilediği zaman tek taraflı olarak değiştirebileceğini belirtmektedir.",
+      "advice_tr": "Koşulları düzenli olarak gözden geçirmeniz yararlı olabilir."
+    },
+    {
+      "category": "account_termination",
+      "severity": "high",
+      "quote": "Yürürlükteki yasaları, bu Kullanım Koşulları’nı, Hizmet Şartları’nı veya bu web sitesindeki herhangi bir yönerge veya politikayı (Topluluk Kurallarımız gibi) ciddi veya tekrar tekrar ihlal ediyorsanız, Amazon hesabınızı kapatabilir veya Amazon Hizmetleri’ne erişiminizi ve bu hizmetlerini kullanımınızı kısıtlayabiliriz.",
+      "explanation_tr": "Şirket, kuralların ihlal edildiği gerekçesiyle hesabınızı kapatma veya kısıtlama hakkını saklı tutar.",
+      "advice_tr": "Hesap kurallarına ve topluluk yönergelerine dikkat etmeniz önerilir."
+    },
+    {
+      "category": "unilateral_change",
+      "severity": "medium",
+      "quote": "Değişiklikleri Amazon.com.tr’de yayınlayarak bu Satış Koşulları’nda herhangi bir zamanda değişiklik yapma hakkını saklı tutarız.",
+      "explanation_tr": "Satış koşullarının da şirket tarafından herhangi bir zamanda değiştirilebileceği belirtilmiştir.",
+      "advice_tr": "Alışveriş yapmadan önce güncel satış koşullarını inceleyebilirsiniz."
+    }
+  ],
+  "unverified": [
+    {
+      "category": "content_license",
+      "severity": "medium",
+      "quote": "Müşteri incelemeleri, yorumları, müşteri soruları veya cevapları yayınlamanız veya internet sitesinde gösterilmesi için herhangi bir içerik... üretmeniz durumunda: (a) Amazon'a, söz konusu içeriği dünya çapında kullanmak, çoğaltmak, yayınlamak, görüntülemek, tercüme etmek ve adapte etmek... için münhasır olmayan, telifsiz hak veriyor olacaksınız",
+      "explanation_tr": "Yayınladığınız değerlendirme ve yorumlar üzerinde şirkete geniş kapsamlı ve ücretsiz bir kullanım lisansı vermtesiniz.",
+      "advice_tr": "Paylaştığınız içeriklerin telif hakları konusunda bilgi sahibi olmanız tavsiye edilir."
+    },
+    {
+      "category": "liability_limit",
+      "severity": "medium",
+      "quote": "Amazon (i) kendisinin ihlaline bağlı olmaksızın ortaya çıkan zararlardan veya (ii) iş kaybı... veya (iii) Amazon Hizmetleri’ni kullanmaya başladığınızda sizin ya da bizim tarafımızdan öngörülemeyen dolaylı zararlardan sorumlu olmayacaktır.",
+      "explanation_tr": "Şirket, kendi kusurundan kaynaklanmayan veya öngörülemeyen dolaylı zararlar için sorumluluk kabul etmemektedir.",
+      "advice_tr": "Hizmeti kullanırken olası risklere karşı dikkatli olabilirsiniz."
+    }
+  ],
+  "uncertain": false,
+  "uncertaintyReasons": [],
+  "injection": {
+    "inText": [],
+    "hiddenOnly": []
+  }
+}

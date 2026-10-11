@@ -1,0 +1,59 @@
+{
+  "status": "ok",
+  "isLegalDocument": true,
+  "documentType": "tos",
+  "summary": "Bu belge, YouTube'un kullanım koşullarını, kullanıcı hak ve yükümlülüklerini, içerik lisanslama şartlarını, hesap fesih koşullarını ve sorumluluk sınırlarını düzenlemektedir.",
+  "score": 88,
+  "level": "high",
+  "clauses": [
+    {
+      "category": "unilateral_change",
+      "severity": "medium",
+      "quote": "Bu Sözleşme'yi, örneğin (1) Hizmet'teki veya çalışma şeklimizdeki değişiklikleri (yeni ürünler veya özellikler eklememiz ya da eskilerini kaldırmamız gibi) yansıtmak amacıyla, (2) yasal, mevzuata ilişkin ya da güvenlikle ilgili nedenlerden dolayı veya (3) kötüye kullanımı ya da zararı önlemek amacıyla değiştirebiliriz.",
+      "explanation_tr": "Şirket, hizmet koşullarını tek taraflı olarak değiştirme hakkını saklı tutar.",
+      "advice_tr": "Şartlardaki güncellemeleri dönemsel olarak incelemeniz faydalı olabilir."
+    },
+    {
+      "category": "content_license",
+      "severity": "high",
+      "quote": "Hizmet'e İçerik sağlayarak YouTube'a Hizmet'i çalıştırmak, tanıtmak ve iyileştirmek amacıyla bu İçeriği kullanması için (çoğaltmak, dağıtmak, değiştirmek, görüntülemek ve sunmak dahil) tüm dünyada geçerli, münhasır olmayan, telifsiz, devredilebilir, alt lisanslanabilir bir lisans verirsiniz.",
+      "explanation_tr": "Yüklediğiniz içerikler üzerinde şirkete geniş dünya çapında lisans hakları tanımış olursunuz.",
+      "advice_tr": "Paylaştığınız içeriklerin telif ve kullanım haklarına dikkat edin."
+    },
+    {
+      "category": "content_license",
+      "severity": "medium",
+      "quote": "Ayrıca Hizmet'in diğer her bir kullanıcısına, Hizmet aracılığıyla İçeriğinize erişmesi ve bu İçeriği yalnızca Hizmet'in bir özelliği ile etkinleştirilecek şekilde kullanması için (çoğaltmak, dağıtmak, değiştirmek, görüntülemek ve sunmak dahil) tüm dünyada geçerli, münhasır olmayan, telifsiz bir lisans verirsiniz",
+      "explanation_tr": "Platformdaki diğer kullanıcılara da içeriğinizi belirli şekillerde kullanma izni vermiş olursunuz.",
+      "advice_tr": "Herkese açık paylaşacağınız içeriklerin bu kapsama gireceğini unutmayın."
+    },
+    {
+      "category": "account_termination",
+      "severity": "high",
+      "quote": "YouTube; (a) bu Sözleşme'yi esaslı şekilde veya üst üste ihlal etmeniz; (b) bir yasal şart ya da bir mahkeme emrine uymak için bunu yapmamızın gerekli olması veya (c) herhangi bir kullanıcı, başka bir üçüncü taraf, YouTube veya İş Ortağı için sorumluluk ya da zarara neden olabilecek davranış olduğuna makul bir şekilde karar vermemiz halinde Google hesabınızı veya Hizmet'in tamamına veya bir kısmına erişiminizi askıya alma veya feshetme hakkını saklı tutar.",
+      "explanation_tr": "Şirket, belirtilen durumlarda hesabınızı askıya alabilir veya tamamen kapatabilir.",
+      "advice_tr": "Hesap güvenliğinize ve topluluk kurallarına uymaya özen gösterin."
+    },
+    {
+      "category": "liability_limit",
+      "severity": "high",
+      "quote": "YouTube'un ve İş Ortaklarının Hizmet'ten veya Hizmet ile ilgili olarak oluşan taleplere karşı toplam sorumluluğu, hangisi daha fazla ise: (a) talep ile ilgili olarak YouTube'a yazılı olarak göndermiş olduğunuz bildirim tarihinden önceki 12 ay içinde Hizmet'i kullanımınız dolayısıyla YouTube'un size ödemiş olduğu gelir tutarı ve (b) 500 € ile sınırlıdır .",
+      "explanation_tr": "Şirketin olası zararlardan dolayı sorumluluğu çok düşük bir üst sınırla sınırlandırılmıştır.",
+      "advice_tr": "Ticari kullanıcıysanız bu finansal sınırlandırmayı dikkate alın."
+    },
+    {
+      "category": "arbitration_waiver",
+      "severity": "medium",
+      "quote": "Bu Sözleşme ve YouTube ile bu Sözleşme kapsamındaki ilişkiniz İngiliz Kanunlarına tabi olacak ve yasal anlaşmazlıklar için İngiltere ve Galler mahkemelerine başvurulabilecektir.",
+      "explanation_tr": "Uyuşmazlık durumunda uygulanacak hukuk ve yetkili mahkeme Türkiye dışı olarak belirlenmiştir.",
+      "advice_tr": "Uluslararası sözleşmelerde yetkili mahkemenin yabancı ülke olmasının dezavantajlarını göz önünde bulundurun."
+    }
+  ],
+  "unverified": [],
+  "uncertain": false,
+  "uncertaintyReasons": [],
+  "injection": {
+    "inText": [],
+    "hiddenOnly": []
+  }
+}
