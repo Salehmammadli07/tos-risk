@@ -39,4 +39,9 @@ describe('llmJsonSchema', () => {
     expect(llmJsonSchema.$schema).toBeUndefined();
     expect(llmJsonSchema.properties.clauses.type).toBe('array');
   });
+  it('Gemini 400 döndürdüğü için maxItems içermez; sınırı zod yine uygular', () => {
+    expect(JSON.stringify(llmJsonSchema)).not.toMatch(/maxItems/);
+    const many = { ...valid, clauses: Array(31).fill(valid.clauses[0]) };
+    expect(parseLlmOutput(JSON.stringify(many)).ok).toBe(false);
+  });
 });

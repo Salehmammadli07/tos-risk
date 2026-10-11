@@ -21,8 +21,9 @@ export const LlmOutputSchema = z.object({
 });
 
 // Gemini'ye gönderilen şema aynı zod tanımından üretilir; tek kaynak.
+// Gemini `maxItems` görünce HTTP 400 döndürüyor; bu sınırı yalnızca zod uygular.
 const { $schema, ...jsonSchema } = z.toJSONSchema(LlmOutputSchema);
-export const llmJsonSchema = jsonSchema;
+export const llmJsonSchema = JSON.parse(JSON.stringify(jsonSchema, (k, v) => (k === 'maxItems' ? undefined : v)));
 
 export function parseLlmOutput(raw) {
   let data;

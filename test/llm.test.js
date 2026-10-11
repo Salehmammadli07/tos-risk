@@ -32,7 +32,27 @@ describe('createGeminiClient', () => {
     expect(body.response_format.json_schema.schema).toEqual({ type: 'object' });
   });
   it('HTTP hatasında durum koduyla hata fırlatır', async () => {
-    const complete = createGeminiClient({ apiKey: 'K', fetchImpl: fakeFetch(429, { error: 'quota' }) });
-    await expect(complete([], {})).rejects.toThrow(/429/);
+    const complete = createGeminiClient({ apiKey: 'K', fetchImpl: fakeFetch(400, { error: 'bad' }) });
+    await expect(complete([], {})).rejects.toThrow(/400/);
+  });
+  it('429/503 (yoğunluk, kota) gelirse bekleyip yeniden dener', async () => {
+    const statuses = [503, 429, 200];
+    const calls = [];
+    const fetchImpl = async () => {
+      const status = statuses.shift();
+      calls.push(status);
+      return {
+        ok: status === 200, status,
+        json: async () => ({ choices: [{ message: { content: 'tamam' } }] }),
+        text: async () => 'yoğun',
+      };
+    };
+    const complete = createGeminiClient({ apiKey: 'K', fetchImpl, retryDelaysMs: [0, 0] });
+    expect(await complete([], {})).toBe('tamam');
+    expect(calls).toEqual([503, 429, 200]);
+  });
+  it('yeniden denemeler tükenince son hatayı fırlatır', async () => {
+    const complete = createGeminiClient({ apiKey: 'K', fetchImpl: fakeFetch(503, {}), retryDelaysMs: [0, 0] });
+    await expect(complete([], {})).rejects.toThrow(/503/);
   });
 });
