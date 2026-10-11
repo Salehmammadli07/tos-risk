@@ -51,6 +51,26 @@ describe('createGeminiClient', () => {
     expect(await complete([], {})).toBe('tamam');
     expect(calls).toEqual([503, 429, 200]);
   });
+  it('yanıt gelmezse zaman aşımıyla keser ve yeniden dener', async () => {
+    let n = 0;
+    const fetchImpl = (url, init) => {
+      n++;
+      if (n === 1) {
+        // İlk istek hiç yanıt vermez; yalnızca sinyal iptal edince düşer.
+        return new Promise((_, reject) => init.signal.addEventListener('abort', () => reject(init.signal.reason)));
+      }
+      return Promise.resolve({ ok: true, status: 200, json: async () => ({ choices: [{ message: { content: 'geldi' } }] }) });
+    };
+    const complete = createGeminiClient({ apiKey: 'K', fetchImpl, retryDelaysMs: [0], timeoutMs: 20 });
+    expect(await complete([], {})).toBe('geldi');
+    expect(n).toBe(2);
+  });
+  it('zaman aşımı denemeleri tükenirse anlaşılır hata verir', async () => {
+    const fetchImpl = (url, init) =>
+      new Promise((_, reject) => init.signal.addEventListener('abort', () => reject(init.signal.reason)));
+    const complete = createGeminiClient({ apiKey: 'K', fetchImpl, retryDelaysMs: [0], timeoutMs: 20 });
+    await expect(complete([], {})).rejects.toThrow(/zaman aşımı/);
+  });
   it('yeniden denemeler tükenince son hatayı fırlatır', async () => {
     const complete = createGeminiClient({ apiKey: 'K', fetchImpl: fakeFetch(503, {}), retryDelaysMs: [0, 0] });
     await expect(complete([], {})).rejects.toThrow(/503/);
