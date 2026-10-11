@@ -1,0 +1,31 @@
+{
+  "name": "tos-risk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "build": "node scripts/build.mjs",
+    "build:test": "node scripts/build.mjs --test",
+    "e2e": "node scripts/e2e.mjs",
+    "eval": "node eval/run.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@page-agent/page-controller": "^1.12.4",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "cypress": "^16.1.1",
+    "esbuild": "^0.28.2",
+    "jsdom": "^30.1.2",
+    "vitest": "^5.0.3"
+  }
+}
