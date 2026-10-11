@@ -10,6 +10,7 @@ describe('isLegalPage', () => {
     ['https://site.com/p/123', 'Gizlilik Politikası'],
     ['https://site.com/abonelik-sartlari', ''],
     ['http://localhost:5173/kullanim-kosullari.html', ''],
+    ['https://example.com/tos', 'Terms of Service'],
   ])('yasal sayfa: %s %s', (url, title) => {
     expect(isLegalPage(url, title)).toBe(true);
   });
@@ -18,6 +19,7 @@ describe('isLegalPage', () => {
     ['https://site.com/photos', 'Fotoğraflar'],
     ['https://example.com/', 'Ana Sayfa'],
     ['https://site.com/%E0%A4%A', 'Bozuk adres'],
+    ['http://localhost:5871/__/#/specs/runner?file=cypress/e2e/demo.cy.js', 'tos-risk'],
   ])('yasal değil: %s %s', (url, title) => {
     expect(isLegalPage(url, title)).toBe(false);
   });
