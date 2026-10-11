@@ -1,0 +1,31 @@
+{
+  "status": "ok",
+  "isLegalDocument": true,
+  "documentType": "privacy",
+  "summary": "Bu belge, Walt Disney Şirketler Ailesi'nin veri toplama, işleme, üçüncü taraflarla paylaşma ve kullanıcı haklarına ilişkin gizlilik politikasını açıklamaktadır.",
+  "score": 33,
+  "level": "medium",
+  "clauses": [
+    {
+      "category": "data_sharing",
+      "severity": "medium",
+      "quote": "Bu şirketlerin ürün ve hizmetleri hakkında size teklif ve promosyonlar gönderebilmesi için kişisel bilgilerinizi dikkatlice seçilmiş şirketlerle paylaşmayı tercih ederek kişisel verilerinizi başka bir şirketle paylaşmamıza izin verdiğinizde;",
+      "explanation_tr": "Kişisel verileriniz, onay vermeniz durumunda teklif ve promosyon amacıyla seçilmiş üçüncü taraf şirketlerle paylaşılabilmektedir.",
+      "advice_tr": "Pazarlama amaçlı veri paylaşım tercihlerinizi gizlilik ayarlarından kontrol edebilirsiniz."
+    },
+    {
+      "category": "unilateral_change",
+      "severity": "low",
+      "quote": "Yeni teknolojilere, sektörel uygulamalara, yasal şartlara veya diğer amaçlara ayak uydurmak amacıyla zaman zaman bu gizlilik politikasını değiştirebiliriz.",
+      "explanation_tr": "Şirket, gizlilik politikasını tek taraflı olarak güncelleme hakkına sahiptir.",
+      "advice_tr": "Politika değişikliklerinden haberdar olmak için sayfayı düzenli olarak inceleyebilirsiniz."
+    }
+  ],
+  "unverified": [],
+  "uncertain": false,
+  "uncertaintyReasons": [],
+  "injection": {
+    "inText": [],
+    "hiddenOnly": []
+  }
+}

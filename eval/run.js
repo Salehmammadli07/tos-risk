@@ -11,8 +11,11 @@ if (!apiKey) {
 }
 const model = process.env.GEMINI_MODEL || DEFAULT_MODEL;
 const complete = createGeminiClient({ apiKey, model });
+const label = process.env.EVAL_LABEL || `${new Date().toISOString().slice(0, 10)}-${model}`;
+const outDir = `eval/runs/${label}`;
 const sources = JSON.parse(readFileSync('eval/sources.json', 'utf8'));
-mkdirSync('eval/out', { recursive: true });
+mkdirSync(outDir, { recursive: true });
+mkdirSync('eval/results', { recursive: true });
 
 const rows = [];
 for (const s of sources) {
@@ -20,7 +23,7 @@ for (const s of sources) {
   const gold = JSON.parse(readFileSync(`eval/gold/${s.id}.json`, 'utf8')).clauses;
   console.log(`Analiz: ${s.name}`);
   const report = await analyzeDocument({ text, complete });
-  writeFileSync(`eval/out/${s.id}.json`, JSON.stringify(report, null, 2));
+  writeFileSync(`${outDir}/${s.id}.json`, JSON.stringify(report, null, 2));
   rows.push({ s, gold, report, m: report.status === 'ok' ? matchClauses(report.clauses, gold, normalize(text)) : null });
 }
 
@@ -32,7 +35,7 @@ const M = sum((r) => r.m.missed.length);
 const F = sum((r) => r.m.falseAlarms.length);
 
 const lines = [
-  '# Eval sonuçları',
+  `# Eval sonuçları — ${label}`,
   '',
   `Tarih: ${new Date().toISOString().slice(0, 10)} · Model: \`${model}\` · temperature 0 · tek çalıştırma`,
   '',

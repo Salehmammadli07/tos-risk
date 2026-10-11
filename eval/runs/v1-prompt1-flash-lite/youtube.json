@@ -1,0 +1,52 @@
+{
+  "status": "ok",
+  "isLegalDocument": true,
+  "documentType": "tos",
+  "summary": "Belge, YouTube hizmetlerinin kullanımına ilişkin şartları, kullanıcı hak ve yükümlülüklerini, telif haklarını, fesih koşullarını ve sorumluluk sınırlamalarını düzenleyen kullanım koşulları metnidir.",
+  "score": 83,
+  "level": "high",
+  "clauses": [
+    {
+      "category": "unilateral_change",
+      "severity": "medium",
+      "quote": "Bu Sözleşme'yi, örneğin (1) Hizmet'teki veya çalışma şeklimizdeki değişiklikleri (yeni ürünler veya özellikler eklememiz ya da eskilerini kaldırmamız gibi) yansıtmak amacıyla, (2) yasal, mevzuata ilişkin ya da güvenlikle ilgili nedenlerden dolayı veya (3) kötüye kullanımı ya da zararı önlemek amacıyla değiştirebiliriz.",
+      "explanation_tr": "Şirket, hizmet koşullarında tek taraflı olarak değişiklik yapma hakkını saklı tutmaktadır.",
+      "advice_tr": "Koşullardaki güncellemeleri düzenli olarak takip edebilirsiniz."
+    },
+    {
+      "category": "content_license",
+      "severity": "high",
+      "quote": "Hizmet'e İçerik sağlayarak YouTube'a Hizmet'i çalıştırmak, tanıtmak ve iyileştirmek amacıyla bu İçeriği kullanması için (çoğaltmak, dağıtmak, değiştirmek, görüntülemek ve sunmak dahil) tüm dünyada geçerli, münhasır olmayan, telifsiz, devredilebilir, alt lisanslanabilir bir lisans verirsiniz.",
+      "explanation_tr": "Yüklediğiniz içerikler üzerinde şirkete çok geniş ve dünya çapında kullanım lisansı vermiş olursunuz.",
+      "advice_tr": "Paylaştığınız içeriklerin telif ve kullanım haklarına dikkat edebilirsiniz."
+    },
+    {
+      "category": "account_termination",
+      "severity": "high",
+      "quote": "YouTube; (a) bu Sözleşme'yi esaslı şekilde veya üst üste ihlal etmeniz; (b) bir yasal şart ya da bir mahkeme emrine uymak için bunu yapmamızın gerekli olması veya (c) herhangi bir kullanıcı, başka bir üçüncü taraf, YouTube veya İş Ortağı için sorumluluk ya da zarara neden olabilecek davranış olduğuna makul bir şekilde karar vermemiz halinde Google hesabınızı veya Hizmet'in tamamına veya bir kısmına erişiminizi askıya alma veya feshetme hakkını saklı tutar.",
+      "explanation_tr": "Şirket, belirlenen bazı durumlarda hesabınızı askıya alabilir veya tamamen kapatabilir.",
+      "advice_tr": "Hesap güvenliğinize ve topluluk kurallarına özen göstererek erişiminizin kesilmesini önleyebilirsiniz."
+    },
+    {
+      "category": "liability_limit",
+      "severity": "medium",
+      "quote": "Geçerli yasaların izin verdiği ölçüde, YouTube ve İş Ortakları şunlardan sorumlu olmayacaktır: YouTube'un ya da İş Ortaklarının bu Sözleşme'yi ihlal etmesinden kaynaklanmayan kayıplar",
+      "explanation_tr": "Şirket, kendi ihlalinden kaynaklanmayan birtakım kayıplarınızdan sorumlu tutulamayacağını belirtmektedir.",
+      "advice_tr": "Olası kayıplarınıza karşı alternatif yedekleme yöntemleri kullanabilirsiniz."
+    },
+    {
+      "category": "arbitration_waiver",
+      "severity": "medium",
+      "quote": "Bu Sözleşme ve YouTube ile bu Sözleşme kapsamındaki ilişkiniz İngiliz Kanunlarına tabi olacak ve yasal anlaşmazlıklar için İngiltere ve Galler mahkemelerine başvurulabilecektir.",
+      "explanation_tr": "Uyuşmazlık durumunda yabancı ülke kanunları ve mahkemeleri yetkili kılınmıştır.",
+      "advice_tr": "Yerel tüketici haklarınızın geçerli olup olmadığını ilgili mevzuattan kontrol edebilirsiniz."
+    }
+  ],
+  "unverified": [],
+  "uncertain": false,
+  "uncertaintyReasons": [],
+  "injection": {
+    "inText": [],
+    "hiddenOnly": []
+  }
+}

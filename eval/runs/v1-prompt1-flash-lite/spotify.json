@@ -1,0 +1,60 @@
+{
+  "status": "ok",
+  "isLegalDocument": true,
+  "documentType": "tos",
+  "summary": "Bu belge Spotify Kullanım Şartları'dır ve abonelik ücretlerinin otomatik yenilenmesi, şirketin hizmet şartlarını tek taraflı değiştirebilmesi, kullanıcı hesabını askıya alabilmesi veya sonlandırabilmesi, zorunlu tahkim ve toplu dava feragatleri gibi tüketici aleyhine olabilecek çeşitli koşullar içermektedir.",
+  "score": 100,
+  "level": "high",
+  "clauses": [
+    {
+      "category": "auto_renewal",
+      "severity": "medium",
+      "quote": "Aksi belirtilmedikçe (örneğin, Ön Ödemeli Süre için kaydolduysanız) Ücretli Abonelikler iptal edilene kadar süresiz olarak devam eder. Her faturalandırma döneminin ilk gününde tekrar faturalandırılırsınız; ilgili ödemeyi yapar ve o sırada geçerli olan abonelik ücretini ödeme yönteminizden tahsil etmemiz için bize (veya bir üçüncü taraf aracılığıyla kaydolursanız geçerli üçüncü tarafa) yetki verirsiniz.",
+      "explanation_tr": "Aboneliğiniz siz iptal edene kadar her fatura döneminde otomatik olarak yenilenir ve ücret ödeme yönteminizden çekilir.",
+      "advice_tr": "Aboneliğinizi yenilemek istemiyorsanız süresi dolmadan önce iptal etmelisiniz."
+    },
+    {
+      "category": "unilateral_change",
+      "severity": "medium",
+      "quote": "Spotify; düzenli abonelik ücretleri, Ön Ödeme Dönemi (henüz ödemesi yapılmamış dönemler için) ya da Kodlar (yukarıda tanımlanmıştır) dahil Ücretli Abonelikler'in ücretini zaman zaman değiştirebilir ve her türlü fiyat değişikliğini makul bir süre önce size bildirecektir.",
+      "explanation_tr": "Şirket, abonelik ücretlerini önceden bildirimde bulunarak tek taraflı olarak değiştirebilir.",
+      "advice_tr": "Fiyat değişikliklerini takip etmek için bildirimlerinizi kontrol edebilirsiniz."
+    },
+    {
+      "category": "content_license",
+      "severity": "high",
+      "quote": "Bu doğrultuda Spotify'a herhangi bir Kullanıcı İçeriğinizi Spotify Hizmeti ile bağlantılı olarak herhangi bir ortam aracılığıyla, tek başına ya da başka İçerik ile veya materyallerle birlikte, herhangi bir şekilde ve bilinen ya da bundan sonra geliştirilecek olan herhangi bir araçla, yöntemle veya teknolojiyle çoğaltmak, herkese açık hale getirmek, icra etmek ve göstermek, tercüme etmek, değiştirmek, türev eserlerini oluşturmak ve dağıtmak üzere münhasır olmayan, devredilebilir, alt lisansı verilebilir, telifsiz, tamamen ödenmiş, iptal edilemez ve tüm dünyada geçerli bir lisans verirsiniz.",
+      "explanation_tr": "Platforma yüklediğiniz içerikler üzerinde şirkete dünya çapında, telifsiz ve geri alınamaz geniş bir kullanım lisansı vermiş olursunuz.",
+      "advice_tr": "Paylaştığınız içeriklerin telifine dikkat etmeniz faydalı olabilir."
+    },
+    {
+      "category": "liability_limit",
+      "severity": "high",
+      "quote": "Spotify, yetkilileri, hissedarları, çalışanları, temsilcileri, yöneticileri, bağlı ortaklıkları, iştirakleri, halefleri, görevlileri, tedarikçileri veya lisans sağlayıcıları hiçbir durumda şunlardan sorumlu olmayacaktır: (1) her türlü dolaylı, özel, arızi, cezai, örnek niteliğindeki veya bağlı zarardan; (2) Spotify Hizmeti'nin, cihazların, üçüncü taraf uygulamalarının veya üçüncü taraf uygulama içeriğinin kullanılmasından veya kullanılamamasından kaynaklanan her durumda kullanım kaybı, veri kaybı, iş veya kâr kaybından",
+      "explanation_tr": "Şirket, hizmetin kullanımı sırasında yaşanabilecek veri, iş veya kâr kayıplarından sorumlu tutulamaz.",
+      "advice_tr": "Önemli verilerinizi yedeklemeniz önerilir."
+    },
+    {
+      "category": "arbitration_waiver",
+      "severity": "high",
+      "quote": "GEÇERLİ KANUNLARIN İZİN VERDİĞİ DURUMLARDA SİZ VE SPOTIFY, BİRBİRİNİZE KARŞI HERHANGİ BİR TOPLU YA DA TEMSİLİ GİBİ GÖRÜNEN DAVADA BİR DAVACI YA DA TOPLU DAVA TARAFI OLARAK DEĞİL, YALNIZCA KENDİ SIFATINIZLA İDDİADA BULUNABİLECEĞİNİZİ KABUL EDERSİNİZ.",
+      "explanation_tr": "Uyuşmazlık durumunda toplu davalara katılamaz, haklarınızı yalnızca bireysel olarak arayabilirsiniz.",
+      "advice_tr": "Hukuki uyuşmazlıklarda bireysel başvuru yollarını inceleyebilirsiniz."
+    }
+  ],
+  "unverified": [
+    {
+      "category": "account_termination",
+      "severity": "high",
+      "quote": "Bu Şartlar'ı ihlal ettiğinizi düşünürsek, tarafınıza makul bir süre öncesinde bildirimde bulunarak Spotify Hizmeti'ni ya da herhangi bir önemli bileşenini tarafınıza sağlamayı durdurursak veya geçerli kanunlara uyum amacıyla bunun gerekli olduğunu düşündüğümüz durumlarda Spotify, herhangi bir zamanda bu Şartlar'ı ... feshedebilir ya da Spotify Hizmeti'ne erişiminizi askıya alabilir.",
+      "explanation_tr": "Şirket, şartları ihlal ettiğinizi düşündüğünde veya yasal gerekliliklerle hesabınızı askıya alabilir veya sonlandırabilir.",
+      "advice_tr": "Platform kurallarına ve kullanım şartlarına dikkatle uymanız önerilir."
+    }
+  ],
+  "uncertain": false,
+  "uncertaintyReasons": [],
+  "injection": {
+    "inText": [],
+    "hiddenOnly": []
+  }
+}
