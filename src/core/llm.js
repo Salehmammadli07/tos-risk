@@ -10,6 +10,13 @@ const DEFAULT_TIMEOUT_MS = 120000;
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
+function explain(status) {
+  if ([400, 401, 403].includes(status)) return 'API anahtarı geçersiz ya da istek reddedildi; uzantı simgesinden anahtarı kontrol edin';
+  if (status === 429) return 'Gemini kotası doldu; biraz sonra tekrar deneyin';
+  if (status === 503) return 'Gemini şu an çok yoğun; biraz sonra tekrar deneyin';
+  return 'Gemini isteği başarısız oldu';
+}
+
 export function createGeminiClient({
   apiKey,
   model = DEFAULT_MODEL,
@@ -35,6 +42,7 @@ export function createGeminiClient({
           signal: AbortSignal.timeout(timeoutMs),
         });
       } catch (e) {
+        if (e?.name === 'TypeError') throw new Error('İnternet bağlantısı kurulamadı; bağlantınızı kontrol edip tekrar deneyin.');
         if (e?.name !== 'TimeoutError') throw e;
         if (!canRetry) throw new Error(`Gemini zaman aşımı: ${timeoutMs / 1000} sn içinde yanıt gelmedi.`);
         await sleep(retryDelaysMs[attempt]);
@@ -45,7 +53,7 @@ export function createGeminiClient({
         return data.choices?.[0]?.message?.content ?? '';
       }
       if (!RETRYABLE.has(res.status) || !canRetry) {
-        throw new Error(`Gemini HTTP ${res.status}: ${(await res.text()).slice(0, 300)}`);
+        throw new Error(`${explain(res.status)} (Gemini HTTP ${res.status}): ${(await res.text()).slice(0, 200)}`);
       }
       await sleep(retryDelaysMs[attempt]);
     }

@@ -10,6 +10,8 @@ export function normalize(s) {
     .replace(/̇/g, '') // "İ".toLowerCase() → "i̇"
     .replace(/ı/g, 'i') // "I" → "i" ile tutarlı olsun
     .replace(/\s+/g, ' ')
+    // page-agent bağlantıyı ayrı satıra koyar: "Politikası\n'nda" → "politikasi 'nda".
+    .replace(/ ([.,;:!?)'])/g, '$1')
     .trim();
 }
 

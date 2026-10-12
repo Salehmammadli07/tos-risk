@@ -71,6 +71,12 @@ describe('createGeminiClient', () => {
     const complete = createGeminiClient({ apiKey: 'K', fetchImpl, retryDelaysMs: [0], timeoutMs: 20 });
     await expect(complete([], {})).rejects.toThrow(/zaman aşımı/);
   });
+  it('ağ hatasını ve geçersiz anahtarı Türkçe anlatır', async () => {
+    const offline = createGeminiClient({ apiKey: 'K', fetchImpl: async () => { throw new TypeError('Failed to fetch'); } });
+    await expect(offline([], {})).rejects.toThrow(/İnternet bağlantısı/);
+    const badKey = createGeminiClient({ apiKey: 'K', fetchImpl: fakeFetch(401, { error: 'x' }) });
+    await expect(badKey([], {})).rejects.toThrow(/API anahtarı geçersiz.*401/);
+  });
   it('yeniden denemeler tükenince son hatayı fırlatır', async () => {
     const complete = createGeminiClient({ apiKey: 'K', fetchImpl: fakeFetch(503, {}), retryDelaysMs: [0, 0] });
     await expect(complete([], {})).rejects.toThrow(/503/);

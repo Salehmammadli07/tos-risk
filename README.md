@@ -170,11 +170,11 @@ LLM çıktısı serbest metin değildir: Gemini'ye `response_format: json_schema
 
 Altın etiketleri Claude hazırladı, bağımsız bir insan kontrolünden geçmedi. Prompt aynı belgelere bakılarak değiştirildi, bu yüzden v2/v3 iyimser olabilir. Ayrıntılar ve geçerlilik tehditleri `eval/RESULTS.md` dosyasında.
 
-Ayrıntılı sonuçlar: [`eval/RESULTS.md`](eval/RESULTS.md). Her belge için ham model çıktısı `eval/out/` klasöründe.
+Ayrıntılı sonuçlar: [`eval/RESULTS.md`](eval/RESULTS.md). Her belge için ham model çıktısı `eval/runs/<çalıştırma>/` klasöründe.
 
 ## Demo videosu
 
-[`docs/demo.mp4`](docs/demo.mp4) (27 sn). Üç Cypress testi sırayla:
+[`docs/demo.mp4`](docs/demo.mp4) (25 sn). Üç Cypress testi sırayla:
 
 1. **Mutlu yol:** ÖrnekFlix koşulları → skor 100, alıntılı maddeler. Test, her alıntının sayfada birebir geçtiğini kontrol eder.
 2. **Dürüst belirsizlik:** Kısa, muğlak bir gizlilik notu → "Emin değilim: metin çok kısa".

@@ -20,6 +20,8 @@ describe('isLegalPage', () => {
     ['https://example.com/', 'Ana Sayfa'],
     ['https://site.com/%E0%A4%A', 'Bozuk adres'],
     ['http://localhost:5871/__/#/specs/runner?file=cypress/e2e/demo.cy.js', 'tos-risk'],
+    ['https://www.google.com/search?q=spotify+terms', 'spotify terms - Google Search'],
+    ['https://site.com/urun?ref=privacy#terms', 'Ürün'],
   ])('yasal değil: %s %s', (url, title) => {
     expect(isLegalPage(url, title)).toBe(false);
   });

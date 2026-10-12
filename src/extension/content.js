@@ -27,11 +27,25 @@ async function runAnalysis() {
     p.showLoading();
     p.showReport(await chrome.runtime.sendMessage({ type: 'analyze', text, rawPageText }));
   } catch (e) {
-    p.showReport({ status: 'failed', error: e.message ?? String(e) });
+    // Servis çalışanı istek sürerken kapanırsa Chrome "message channel closed" der.
+    const error = /message channel|port closed/i.test(e?.message ?? '')
+      ? 'Analiz yarıda kesildi (uzantının arka planı kapandı); tekrar deneyin.'
+      : (e?.message ?? String(e));
+    p.showReport({ status: 'failed', error });
   }
 }
 
-if (isLegalPage(location.href, document.title)) {
+// Başka sitenin çerçevesinde (ör. çerez onayı iframe'i) panel açma.
+function isCrossOriginFrame() {
+  if (window === window.top) return false;
+  try {
+    return window.top.location.origin !== location.origin;
+  } catch {
+    return true;
+  }
+}
+
+if (!isCrossOriginFrame() && isLegalPage(location.href, document.title)) {
   chrome.runtime.sendMessage({ type: 'legal-page-detected' });
   getPanel().showIntro();
 }

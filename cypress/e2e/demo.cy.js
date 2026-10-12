@@ -7,8 +7,9 @@ const LLM_TIMEOUT = 90000;
 const panel = (id, options) => cy.get(`[data-testid="${id}"]`, options);
 
 let frame = 0;
+// Numara çekim anında verilir; kuyruğa eklenme anında verilseydi kare sırası karışırdı.
 const snap = () =>
-  cy.screenshot(`kare-${String(frame++).padStart(3, '0')}`, { capture: 'runner', log: false, overwrite: true });
+  cy.then(() => cy.screenshot(`kare-${String(frame++).padStart(3, '0')}`, { capture: 'runner', log: false, overwrite: true }));
 const hold = (frames) => {
   for (let i = 0; i < frames; i++) {
     cy.wait(400, { log: false });

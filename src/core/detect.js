@@ -17,7 +17,21 @@ function safeDecode(s) {
   }
 }
 
+// Sorgu ve # kısmına bakılmaz. Arama sonucu sayfaları ("google.com/search?q=spotify+terms")
+// başlıkta da aranan kelimeyi taşıdığı için baştan dışlanır.
+function parse(url) {
+  try {
+    const u = new URL(url);
+    const isSearch = /\/search\b/.test(u.pathname) || ['q', 'query', 'search'].some((k) => u.searchParams.has(k));
+    return { hostAndPath: `${u.hostname}${u.pathname}`, isSearch };
+  } catch {
+    return { hostAndPath: url, isSearch: false };
+  }
+}
+
 export function isLegalPage(url, title = '') {
-  const words = fold(`${safeDecode(url)} ${title}`).replace(/[^a-z0-9]+/g, ' ');
+  const { hostAndPath, isSearch } = parse(url);
+  if (isSearch) return false;
+  const words = fold(`${safeDecode(hostAndPath)} ${title}`).replace(/[^a-z0-9]+/g, ' ');
   return LEGAL.test(words);
 }
